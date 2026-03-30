@@ -1,0 +1,60 @@
+SpeciesID,Path,AnnotationLevel,NumGenes,ContigInfo,NumContigs,LocusFraction,Locus
+adder,igdetective_cleaned_112925/Reptiles/Snakes_Cobras_Rattlesnakes/adder/rVipBer3.hap1.1,2,94.0,"[('OZ077565.1', 69153116, 70930794), ('OZ077560.1', 5869580, 7607460)]",2,NA,IGH
+Hungarian_meadow_viper,igdetective_cleaned_112925/Reptiles/Snakes_Cobras_Rattlesnakes/Hungarian_meadow_viper/rVipUrs1.1,0,90.0,"[('OX365967.1', 5066786, 6074449)]",1,0.0079257045163571,IGH
+snub-nosed_viber,igdetective_cleaned_112925/Reptiles/Snakes_Cobras_Rattlesnakes/snub-nosed_viber/rVipLat1.pri,0,97.0,"[('CM044371.1', 130523650, 132411793)]",1,0.0136810456512344,IGH
+Smiths_blind_skink,igdetective_cleaned_112925/Reptiles/Legless_lizards_Blind_Skinks/Smiths_blind_skink/rDibSmi1.hap1,0,22.0,"[('CM100519.1', 62023437, 62174474)]",1,0.0022788679414156,IGH
+Eastern_musk_turtle,igdetective_cleaned_112925/Reptiles/Mud_Musk_turtles/Eastern_musk_turtle/rSteOdo2_p1.0,0,91.0,"[('JAVMKO010000013.1', 35747001, 36486275)]",1,0.0200340447110132,IGH
+olive_python,igdetective_cleaned_112925/Reptiles/Snakes_Pythons/olive_python/rLiaOli1.hap1,0,92.0,"[('CM061351.1', 108699810, 111872309)]",1,0.0273112582482708,IGH
+viper_boa,igdetective_cleaned_112925/Reptiles/Snakes_Boas_/viper_boa/rCanAsp1.hap2,0,201.0,"[('NC_086156.1', 110859083, 114843490)]",1,0.0334027487352306,IGH
+stout_iguana,igdetective_cleaned_112925/Reptiles/Iguanas/stout_iguana/rCycPin1.hap2,0,123.0,"[('JASZZL010000001.1', 133094664, 135992108)]",1,0.0202907980009328,IGH
+Filfola_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/Filfola_wall_lizard/rPodFil1,0,107.0,"[('OZ185447.1', 7210082.0, 10050877.0)]",1,0.052285234863317,IGH
+Ibiza_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/Ibiza_wall_lizard/rPodPit1,2,129.0,"[('OZ067050.1', 45155881, 48279981), ('OZ078260.1', 4848409, 34340266)]",2,NA,IGH
+Bocages_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/Bocages_wall_lizard/rPodBoc1,0,122.0,"[('OZ076898.1', 47245089.0, 50138783.0)]",1,0.0496417226428844,IGH
+Andalusian_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/Andalusian_wall_lizard/rPodVau1.hap1.1,2,81.0,"[('OZ220375.1', 8105287.0, 10826730.0), ('OZ220381.1', 20016161.0, 26587342.0)]",2,NA,IGH
+sand_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/sand_lizard/rLacAgi1.pri,0,82.0,"[('NC_046325.1', 6811108.0, 8561923.0)]",1,0.0338515291380809,IGH
+Tyrrhenian_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/Tyrrhenian_wall_lizard/rPodTil1,0,156.0,"[('OZ229122.1', 43752187.0, 46338444.0)]",1,0.0475490802162072,IGH
+common_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/common_wall_lizard/rPodMur119,0,146.0,"[('OZ076966.1', 7866864.0, 10549418.0)]",1,0.0450079767797431,IGH
+Aegean_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/Aegean_wall_lizard/rPodErh1.hap1.1,0,96.0,"[('OZ176212.1', 5801412.0, 8447214.0)]",1,0.0470923419825565,IGH
+Italian_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/Italian_wall_lizard/rPodSic1,0,117.0,"[('OZ076850.1', 7734995.0, 10380294.0)]",1,0.0477821871305979,IGH
+Cretan_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/Cretan_wall_lizard/rPodCre2.1,0,111.0,"[('OX638161.1', 47336304.0, 49538177.0)]",1,0.0381801665760455,IGH
+Columbretes_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/Columbretes_wall_lizard/rPodLio1,2,149.0,"[('OZ218110.1', 7811638, 10075735), ('OZ218116.1', 20604687, 30548077)]",2,NA,IGH
+Aeolian_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/Aeolian_wall_lizard/rPodRaf1.pri,0,140.0,"[('NC_070614.1', 45640771.0, 48572744.0)]",1,0.0521255370139793,IGH
+European_common_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/European_common_lizard/rZooViv1.1,0,93.0,"[('NC_083288.1', 45326148, 47362529)]",1,0.0371260304670775,IGH
+Skyros_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/Skyros_wall_lizard/rPodGai1,0,112.0,"[('OZ066926.1', 8471787.0, 11237224.0)]",1,0.0485782659452881,IGH
+Dalmatian_wall_lizard,igdetective_cleaned_112925/Reptiles/Wall_lizards/Dalmatian_wall_lizard/rPodMel1,0,121.0,"[('OZ174287.1', 8082485.0, 10578536.0)]",1,0.044380846236895,IGH
+European_leaf-toed_gecko,igdetective_cleaned_112925/Reptiles/Geckos_Flat-footed_lizards/European_leaf-toed_gecko/rEulEur1.hap2,0,95.0,"[('JARABB010000018.1', 4423006, 5846945)]",1,0.0334424494787768,IGH
+leopard_gecko,igdetective_cleaned_112925/Reptiles/Geckos_Flat-footed_lizards/leopard_gecko/MPM_Emac_v1.0,0,137.0,"[('NC_072801.1', 73598179, 76434553)]",1,0.034980115945273,IGH
+Southern_alligator_lizard,igdetective_cleaned_112925/Reptiles/New_World_anguimorph_lizards/Southern_alligator_lizard/rElgMul1.1.pri,0,95.0,"[('NC_086181.1', 40516382, 42783938)]",1,0.0464240446658898,IGH
+Southern_California_legless_lizard,igdetective_cleaned_112925/Reptiles/New_World_anguimorph_lizards/Southern_California_legless_lizard/rAnnSte1.0.hap1,0,73.0,"[('JARDYG010000005.1', 5024158, 7688554)]",1,0.0131464387584032,IGH
+Chinese_crocodile_lizard,igdetective_cleaned_112925/Reptiles/Old_World_anguimorph_lizards/Chinese_crocodile_lizard/IOZ_Scro_1.0,2,54.0,"[('JAHFWL010000038.1', 3230, 365518), ('CM037877.1', 293401761, 294065006), ('JAHFWL010001052.1', 632, 235637), ('JAHFWL010000039.1', 4485, 528517)]",4,NA,IGH
+Western_whiptail_stejnegeri,igdetective_cleaned_112925/Reptiles/Tegus_Whiptail_lizards/Western_whiptail_stejnegeri/rAspTig1.1.alt,0,54.0,"[('JALMGB020000009.1', 5422752, 8434821)]",1,0.0571680040895817,IGH
+brown_anole,igdetective_cleaned_112925/Reptiles/Anoles/brown_anole/rAnoSag1.mat,0,72.0,"[('NC_090026.1', 9872145, 10849300)]",1,0.0072626444806593,IGH
+yellow-spotted_Amazon_river_turtle,igdetective_cleaned_112925/Reptiles/Madagascar_big-headed_Big-headed_Amazon_River_turtle_and_South_American_sideneck_river_turtles/yellow-spotted_Amazon_river_turtle/rPodUni1.pri,2,145.0,"[('CM113751.1', 302152, 2208404), ('JBNCFJ010000030.1', 13522, 257555)]",2,NA,IGH
+arrau_turtle,igdetective_cleaned_112925/Reptiles/Madagascar_big-headed_Big-headed_Amazon_River_turtle_and_South_American_sideneck_river_turtles/arrau_turtle/rPodExp1.hap2,0,137.0,"[('CM098530.1', 61643046, 68193341)]",1,0.0465848379795406,IGH
+pig-nosed_turtle,igdetective_cleaned_112925/Reptiles/Pig-nosed_turtle/pig-nosed_turtle/ASM3395843v1,0,73.0,"[('NC_134168.1', 3345985, 4067355)]",1,0.055821930078229,IGH
+American_alligator,igdetective_cleaned_112925/Reptiles/Alligators_Caimens/American_alligator/rAllMis1.hap1,2,293.0,"[('NC_081830.1', 3942503, 9006128), ('NC_081837.1', 17695090, 21115857)]",2,NA,IGH
+Indian_roofed_turtle,igdetective_cleaned_112925/Reptiles/Asian_river_leaf_roofed_box_turtles/Indian_roofed_turtle/rPanTec1.hap2,0,88.0,"[('CM099119.1', 377799, 1759137)]",1,0.0316754763023139,IGH
+Cape_dwarf_chameleon,igdetective_cleaned_112925/Reptiles/Chameleons/Cape_dwarf_chameleon/rBraPum1.hap2,0,26.0,"[('CM106089.1', 6366422, 6803265)]",1,0.002989545511244,IGH
+panther_chameleon,igdetective_cleaned_112925/Reptiles/Chameleons/panther_chameleon/ASM3044067v1,0,53.0,"[('CP126897.1', 5340534, 5790573)]",1,0.0040388489599504,IGH
+blue-tongue_skink,igdetective_cleaned_112925/Reptiles/Skinks_Night_Plated_Girdle_lizards/blue-tongue_skink/rTilSci1.hap1,0,246.0,"[('CM068512.1', 138204435, 140955040)]",1,0.0186966260760436,IGH
+Florida_worm_lizard,igdetective_cleaned_112925/Reptiles/Worm_lizards/Florida_worm_lizard/rRhiFlo1.hap2,0,70.0,"[('NC_084490.1', 6393170, 8078621)]",1,0.0226859875691981,IGH
+Mexican_gopher_tortoise,igdetective_cleaned_112925/Reptiles/Tortoises/Mexican_gopher_tortoise/rGopFla2.mat,0,151.0,"[('NC_066627.1', 201849, 3142485)]",1,0.0550118675529593,IGH
+Goodes_Thornscrub_Tortoise,igdetective_cleaned_112925/Reptiles/Tortoises/Goodes_Thornscrub_Tortoise/rGopEvg1_v1.p,0,144.0,"[('NW_022060060.1', 530190, 3331544)]",1,0.7964089084180104,IGH
+Indian_gharial,igdetective_cleaned_112925/Reptiles/Gharials/Indian_gharial/rGavGan2.hap2,0,287.0,"[('CM057595.1', 65295684, 75481882)]",1,0.1062998144161966,IGH
+leatherback_sea_turtle,igdetective_cleaned_112925/Reptiles/Leatherback_sea_turtle/leatherback_sea_turtle/rDerCor1.pri,0,96.0,"[('NC_050080.1', 37584991, 40955038)]",1,0.0818773142166481,IGH
+European_pond_turtle,igdetective_cleaned_112925/Reptiles/Pond_turtles/European_pond_turtle/rEmyOrb1.hap1,0,367.0,"[('NC_088694.1', 47743543, 55940918)]",1,0.146155885585342,IGH
+diamondback_terrapin,igdetective_cleaned_112925/Reptiles/Pond_turtles/diamondback_terrapin/rMalTer1.hap1,0,210.0,"[('NC_071516.1', 44571755, 49282656)]",1,0.093545448803105,IGH
+Hawksbill_sea_turtle,igdetective_cleaned_112925/Reptiles/Sea_turtles/Hawksbill_sea_turtle/rEreImb1.hap1,0,370.0,"[('OZ223894.1', 38292950, 43670206)]",1,0.1221817481155833,IGH
+loggerhead_sea_turtle,igdetective_cleaned_112925/Reptiles/Sea_turtles/loggerhead_sea_turtle/rCarCar1.hap1,0,250.0,"[('NC_134218.1', 37668108, 42991325)]",1,0.1231650161384014,IGH
+Kemps_ridley_sea_turtle,igdetective_cleaned_112925/Reptiles/Sea_turtles/Kemps_ridley_sea_turtle/rLepKem1.hap1,0,262.0,"[('OZ223571.1', 37702192, 42292114)]",1,0.1082693450237276,IGH
+Pacific_ridley,igdetective_cleaned_112925/Reptiles/Sea_turtles/Pacific_ridley/rLepOli2.hap1,0,201.0,"[('OZ223124.1', 37608761, 41845548)]",1,0.1007398366001874,IGH
+Australian_flatback_sea_turtle,igdetective_cleaned_112925/Reptiles/Sea_turtles/Australian_flatback_sea_turtle/rNatDep2.hap1,0,316.0,"[('NC_134246.1', 38351282, 41776958)]",1,0.0813820308395324,IGH
+green_sea_turtle,igdetective_cleaned_112925/Reptiles/Sea_turtles/green_sea_turtle/rCheMyd1.pri,0,222.0,"[('NC_051253.2', 38126950, 42952314)]",1,0.1123394127380431,IGH
+Suwannee_snapping_turtle,igdetective_cleaned_112925/Reptiles/Snapping_turtles/Suwannee_snapping_turtle/rMacSuw1.hap1,0,197.0,"[('CM065786.1', 42944052, 44581649)]",1,0.0364390305989621,IGH
+Chinese_softshell_turtle,igdetective_cleaned_112925/Reptiles/Softshell_turtles/Chinese_softshell_turtle/rPelSin1.hap1,2,228.0,"[('JBPQGQ010000207.1', 147339, 2270183), ('JBPQGQ010000158.1', 1348, 161513)]",2,NA,IGH
+Western_terrestrial_garter_snake,igdetective_cleaned_112925/Reptiles/Snakes_Colubrids/Western_terrestrial_garter_snake/rThaEle1.pri,0,200.0,"[('NC_045558.1', 135066709, 137917465)]",1,0.0196426576923288,IGH
+royal_ground_snake,igdetective_cleaned_112925/Reptiles/Snakes_Colubrids/royal_ground_snake/rEryReg1.hap1,0,114.0,"[('NC_091963.1', 144024079, 145766861)]",1,0.0113974753834252,IGH
+barred_grass_snake,igdetective_cleaned_112925/Reptiles/Snakes_Colubrids/barred_grass_snake/rNatHel1.hap1.1,2,180.0,"[('OZ187407.1', 5328284, 8473350), ('OZ187408.1', 77690174, 80532133)]",2,NA,IGH
+African_side-necked_turtle,igdetective_cleaned_112925/Reptiles/Afro-American_sideneck_turtles/African_side-necked_turtle/rPelSom1.pri,0,151.0,"[('CM119683.1', 46638432, 49632228)]",1,0.0276420280748009,IGH
+Bellinger_river_turtle,igdetective_cleaned_112925/Reptiles/Austro-American_sideneck_turtles/Bellinger_river_turtle/rMyuGeo1.pri,0,335.0,"[('CM105066.1', 1838690, 3552531)]",1,0.0318407137380977,IGH
+Argentine_snake-necked_turtle,igdetective_cleaned_112925/Reptiles/Austro-American_sideneck_turtles/Argentine_snake-necked_turtle/rHydTec1.pri,2,145.0,"[('CM113722.1', 302152, 2208404), ('JBNCFH010000030.1', 13522, 257555)]",2,NA,IGH

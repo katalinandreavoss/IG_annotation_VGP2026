@@ -1,0 +1,24 @@
+SpeciesID,Path,AnnotationLevel,NumGenes,ContigInfo,NumContigs,LocusFraction,Locus
+Tungara_frog,igdetective_cleaned_112925/Amphibians/Tropical_frogs__Glass_frogs/Tungara_frog/aEngPut4_pri,0,46.0,"[('CM082083.1', 276397438, 276946555)]",1,0.0017927017092794,IGK
+Rufous_frog,igdetective_cleaned_112925/Amphibians/Tropical_frogs__Glass_frogs/Rufous_frog/aLepFus1_pri,0,128.0,"[('CM063193.1', 333346333, 343309664)]",1,0.0266495525678619,IGK
+European_toad,igdetective_cleaned_112925/Amphibians/True_toads/European_toad/aBufBuf1_pri,0,13.0,"[('LR991668.1', 796037107, 796444026)]",1,0.0004829564313512,IGK
+Golden_mantella,igdetective_cleaned_112925/Amphibians/Madagascar_frogs/Golden_mantella/aManAur1_pri,0,37.0,"[('CM108995.1', 34958378.0, 35401542.0)]",1,0.0008771937742115,IGK
+Coqui,igdetective_cleaned_112925/Amphibians/Terraranan_frogs/Coqui/aEleCoq1_alt,0,93.0,"[('CM069411.1', 42672270, 46574991)]",1,0.0170943681396717,IGK
+Iberian_parsley_frog,igdetective_cleaned_112925/Amphibians/Parsley_Frogs/Iberian_parsley_frog/aPelIbe1_pri,0,5.0,"[('CM069863.1', 178732612.0, 179083735.0)]",1,0.00176784871642,IGK
+Pool_frog,igdetective_cleaned_112925/Amphibians/Ranoid_frogs/Pool_frog/aPelLes1_pri,0,48.0,"[('OZ221975.1', 823406247, 827329204)]",1,0.0043751377554816,IGK
+European_common_frog,igdetective_cleaned_112925/Amphibians/Ranoid_frogs/European_common_frog/aRanTem1_pri,0,30.0,"[('LR991680.1', 641179407, 641742507)]",1,0.0008153137590276,IGK
+Mimic_poison_frog,igdetective_cleaned_112925/Amphibians/Poison_dart_frogs/Mimic_poison_frog/aRanImi1_pri,0,36.0,"[('CM064359.1', 1208955928, 1210262773)]",1,0.0010426325907833,IGK
+Edwards_rocket_frog,igdetective_cleaned_112925/Amphibians/Poison_dart_frogs/Edwards_rocket_frog/aAnoBae1_alt,0,35.0,"[('CM109150.1', 49844169, 51251373)]",1,0.0014433795516042,IGK
+Two_lined_caecilian,igdetective_cleaned_112925/Amphibians/Neotropical_tailed_caecilians/Two_lined_caecilian/aRhiBiv1_pri,0,12.0,"[('LR584387.1', 241606588, 242636341)]",1,0.0012263615320222,IGK
+Painted_frog,igdetective_cleaned_112925/Amphibians/Painted_frogs/Painted_frog/aDisPic1_pri,0,12.0,"[('CM050163.1', 33467515, 34197578)]",1,0.0012863297167018,IGK
+Southern_corroboree_frog,igdetective_cleaned_112925/Amphibians/Australian_ground_frogs__Chilean_frogs/Southern_corroboree_frog/aPseCor3_alt,0,38.0,"[('CM051801.1', 1170499855, 1174002056)]",1,0.002798361598831,IGK
+Fleays_barred_frog,igdetective_cleaned_112925/Amphibians/Australian_ground_frogs__Chilean_frogs/Fleays_barred_frog/aMixFle1_alt,0,28.0,"[('CM076017.1', 30622990.0, 32656198.0)]",1,0.0043231060780035,IGK
+Plain_spadefoot_toad,igdetective_cleaned_112925/Amphibians/American_spadefoot_toads/Plain_spadefoot_toad/aSpeBom1_pri,0,33.0,"[('CM049770.1', 8735527.0, 9220906.0)]",1,0.0029330958184332,IGK
+Riggenbachs_reed_frog,igdetective_cleaned_112925/Amphibians/SedgeBush_frogs__African_rain_frogs/Riggenbachs_reed_frog/aHypRig1_pri,0,33.0,"[('CM082214.1', 72522581, 73796884)]",1,0.0018421419313733,IGK
+Coastal_tailed_frog,igdetective_cleaned_112925/Amphibians/Tailed_frogs/Coastal_tailed_frog/aAscTru1_pri,0,15.0,"[('CM079535.1', 522698135, 522962157)]",1,0.0004750114254116,IGK
+Gaboon_caecilian,igdetective_cleaned_112925/Amphibians/Neotropical_and_African_viviparous_typical_caecilians/Gaboon_caecilian/aGeoSer1_pri,0,16.0,"[('LR699146.1', 277142232.0, 277408883.0)]",1,0.0004843629595147,IGK
+Common_spadefoot_toad,igdetective_cleaned_112925/Amphibians/European_spadefoot_toads/Common_spadefoot_toad/aPelFus1_pri,0,7.0,"[('CM069886.1', 42027080, 42970807)]",1,0.0030345336057537,IGK
+Tiny_cayenne_caecilian,igdetective_cleaned_112925/Amphibians/Neotropical_tail_less_oviparous_typical_caecilians/Tiny_cayenne_caecilian/aMicUni1_pri,0,26.0,"[('LR594633.1', 473675839, 474838618)]",1,0.0017564521966215,IGK
+Peters_clawed_frog,igdetective_cleaned_112925/Amphibians/TonguelessClawed_frogs/Peters_clawed_frog/aXenPet1_pri,0,83.0,"[('CM076690.1', 218420250, 219378501)]",1,0.0040445739654094,IGK
+Hourglass_treefrog,igdetective_cleaned_112925/Amphibians/Tree_frogs_hylidae/Hourglass_treefrog/aDenEbr1_alt,0,53.0,"[('CM051062.1', 31587976, 32233881)]",1,0.0043118210619994,IGK
+Sardinian_treefrog,igdetective_cleaned_112925/Amphibians/Tree_frogs_hylidae/Sardinian_treefrog/aHylSar1_alt,0,29.0,"[('JARJJA010000001.1', 572582869, 573635274)]",1,0.0017383667986071,IGK
