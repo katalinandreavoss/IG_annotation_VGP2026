@@ -75,7 +75,7 @@ Each file corresponds to one species and contains locus-specific annotation deta
 - **`ContigInfo`**  
   Genomic coordinates of the locus in the format: [(contig_name, start, end)]
 
-  - **`NumContigs`**  
+- **`NumContigs`**  
 Number of contigs containing locus sequences.
 
 - **`LocusFraction`**  
