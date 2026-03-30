@@ -87,8 +87,5 @@ Fraction of the genome assembly occupied by this locus.
 
 This archive contains **FASTA files of annotated IG genes**, organized by locus and class.
 
-- Each file includes nucleotide sequences of annotated genes.
-- Headers typically encode gene identity and annotation details (depending on preprocessing pipeline).
-
 ---
   
