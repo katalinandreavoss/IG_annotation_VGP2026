@@ -47,6 +47,8 @@ Each row corresponds to one species and includes locus-level statistics for:
 - **`VertClass`** – Vertebrate class (e.g., mammals, birds, fish, ...)  
 - **`TreeID`** – Identifier linking species to the phylogenetic tree  
 - **`LatinName`** – Scientific species name  
+- **`Assembly ID`** – Assembly ID name
+- **`Assembly ID main haplotype`** – Assembly ID main haplotype
 
 ---
 
@@ -57,9 +59,11 @@ This archive contains **per-species annotation statistics**, organized into indi
 Each file corresponds to one species and contains locus-specific annotation details.
 
 #### Common columns (same structure across all files)
-
-- **`SpeciesID`** – Unique species identifier  
-- **`Path`** – File path or source of the annotation  
+EnglishName,LatinName,AssemblyID,AssemblyID_main,
+- **`EnglishName`** – English species name  
+- **`LatinName`** – Scientific species name
+- **`Assembly ID`** – Assembly ID name
+- **`Assembly ID main haplotype`** – Assembly ID main haplotype
 - **`Locus`** – IG locus (e.g., IGH, IGK, IGL, IGI)  
 
 - **`AnnotationLevel`**  

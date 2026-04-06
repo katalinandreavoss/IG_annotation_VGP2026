@@ -1,24 +1,24 @@
-SpeciesID,Path,AnnotationLevel,NumGenes,ContigInfo,NumContigs,LocusFraction,Locus
-Tungara_frog,igdetective_cleaned_112925/Amphibians/Tropical_frogs__Glass_frogs/Tungara_frog/aEngPut4_alt,0,3.0,"[('CM082099.1', 26779812.0, 27930616.0)]",1,0.0060457966135715,IGL
-Rufous_frog,igdetective_cleaned_112925/Amphibians/Tropical_frogs__Glass_frogs/Rufous_frog/aLepFus1_pri,0,4.0,"[('CM063193.1', 105073932, 105115233)]",1,0.0001104704009738,IGL
-European_toad,igdetective_cleaned_112925/Amphibians/True_toads/European_toad/aBufBuf1_pri,0,4.0,"[('LR991668.1', 250740894, 252543753)]",1,0.002139743656279,IGL
-Golden_mantella,igdetective_cleaned_112925/Amphibians/Madagascar_frogs/Golden_mantella/aManAur1_pri,3,0.0,"[('NA', 'NA', 'NA')]",1,NA,IGL
-Coqui,igdetective_cleaned_112925/Amphibians/Terraranan_frogs/Coqui/aEleCoq1_pri,0,9.0,"[('CM069422.1', 160858498, 161323181)]",1,0.0016748930762234,IGL
-Iberian_parsley_frog,igdetective_cleaned_112925/Amphibians/Parsley_Frogs/Iberian_parsley_frog/aPelIbe1_pri,3,0.0,"[('NA', 'NA', 'NA')]",1,NA,IGL
-Pool_frog,igdetective_cleaned_112925/Amphibians/Ranoid_frogs/Pool_frog/aPelLes1_pri,0,4.0,"[('OZ221975.1', 268264827, 268459379)]",1,0.0002169770916694,IGL
-European_common_frog,igdetective_cleaned_112925/Amphibians/Ranoid_frogs/European_common_frog/aRanTem1_pri,0,3.0,"[('LR991680.1', 211043985, 211070650)]",1,3.860831359345002e-05,IGL
-Mimic_poison_frog,igdetective_cleaned_112925/Amphibians/Poison_dart_frogs/Mimic_poison_frog/aRanImi1_pri,0,12.0,"[('CM064362.1', 6188490, 12098270)]",1,0.0081420740154567,IGL
-Edwards_rocket_frog,igdetective_cleaned_112925/Amphibians/Poison_dart_frogs/Edwards_rocket_frog/aAnoBae1_alt,0,7.0,"[('CM109156.1', 252348173, 254293406)]",1,0.0061975735929685,IGL
-Two_lined_caecilian,igdetective_cleaned_112925/Amphibians/Neotropical_tailed_caecilians/Two_lined_caecilian/aRhiBiv1_pri,0,3.0,"[('LR584390.1', 481959875, 483627446)]",1,0.003425048762813,IGL
-Painted_frog,igdetective_cleaned_112925/Amphibians/Painted_frogs/Painted_frog/aDisPic1_pri,0,1.0,"[('CM050163.1', 419773149, 420492697)]",1,0.001267802881386,IGL
-Southern_corroboree_frog,igdetective_cleaned_112925/Amphibians/Australian_ground_frogs__Chilean_frogs/Southern_corroboree_frog/aPseCor3_alt,0,12.0,"[('CM051803.1', 135267420, 146583553)]",1,0.0139957549355733,IGL
-Fleays_barred_frog,igdetective_cleaned_112925/Amphibians/Australian_ground_frogs__Chilean_frogs/Fleays_barred_frog/aMixFle1_alt,3,0.0,"[('NA', 'NA', 'NA')]",1,NA,IGL
-Plain_spadefoot_toad,igdetective_cleaned_112925/Amphibians/American_spadefoot_toads/Plain_spadefoot_toad/aSpeBom1_pri,3,0.0,"[('NA', 'NA', 'NA')]",1,NA,IGL
-Riggenbachs_reed_frog,igdetective_cleaned_112925/Amphibians/SedgeBush_frogs__African_rain_frogs/Riggenbachs_reed_frog/aHypRig1_pri,0,9.0,"[('JBFPJS010000033.1', 163300, 258622)]",1,0.2079581823457417,IGL
-Coastal_tailed_frog,igdetective_cleaned_112925/Amphibians/Tailed_frogs/Coastal_tailed_frog/aAscTru1_alt,0,4.0,"[('JBDGIK010000423.1', 446, 19328)]",1,0.0717038882327699,IGL
-Gaboon_caecilian,igdetective_cleaned_112925/Amphibians/Neotropical_and_African_viviparous_typical_caecilians/Gaboon_caecilian/aGeoSer1_pri,3,0.0,"[('NA', 'NA', 'NA')]",1,NA,IGL
-Common_spadefoot_toad,igdetective_cleaned_112925/Amphibians/European_spadefoot_toads/Common_spadefoot_toad/aPelFus1_pri,0,3.0,"[('CM069893.1', 3042127, 3613677)]",1,0.0050614366129104,IGL
-Tiny_cayenne_caecilian,igdetective_cleaned_112925/Amphibians/Neotropical_tail_less_oviparous_typical_caecilians/Tiny_cayenne_caecilian/aMicUni1_pri,0,2.0,"[('LR594636.1', 255567833, 256633804)]",1,0.0029266424418275,IGL
-Peters_clawed_frog,igdetective_cleaned_112925/Amphibians/TonguelessClawed_frogs/Peters_clawed_frog/aXenPet1_pri,0,6.0,"[('CM076690.1', 68258999, 68529496)]",1,0.0011417103910367,IGL
-Hourglass_treefrog,igdetective_cleaned_112925/Amphibians/Tree_frogs_hylidae/Hourglass_treefrog/aDenEbr1_alt,0,3.0,"[('CM051058.1', 23418006, 23472847)]",1,0.0002714071277012,IGL
-Sardinian_treefrog,igdetective_cleaned_112925/Amphibians/Tree_frogs_hylidae/Sardinian_treefrog/aHylSar1_pri,0,3.0,"[('CM056040.1', 304444482, 305612218)]",1,0.0038188524875075,IGL
+EnglishName,LatinName,AssemblyID,AssemblyID_main,AnnotationLevel,NumGenes,ContigInfo,NumContigs,LocusFraction,Locus
+tungara frog,Engystomops pustulosus,aEngPut4,aEngPut4.mat,0,3,[('CM082099.1', 26779812.0, 27930616.0)],1,0.0060457966135715,IGL
+rufous frog,Leptodactylus fuscus,aLepFus1,aLepFus1.hap2,0,4,[('CM063193.1', 105073932, 105115233)],1,0.0001104704009738,IGL
+European toad,Bufo bufo,aBufBuf1,aBufBuf1.pri,0,4,[('LR991668.1', 250740894, 252543753)],1,0.002139743656279,IGL
+golden mantella,Mantella aurantiaca,aManAur1,aManAur1.hap1,3,0,[('NA', 'NA', 'NA')],1,NA,IGL
+coqui,Eleutherodactylus coqui,aEleCoq1,aEleCoq1.hap1,0,9,[('CM069422.1', 160858498, 161323181)],1,0.0016748930762234,IGL
+Iberian parsley frog,Pelodytes ibericus,aPelIbe1,aPelIbe1.pri,3,0,[('NA', 'NA', 'NA')],1,NA,IGL
+pool frog,Pelophylax lessonae,aPelLes1,aPelLes1.hap1,0,4,[('OZ221975.1', 268264827, 268459379)],1,0.0002169770916694,IGL
+European common frog,Rana temporaria,aRanTem1,aRanTem1.pri,0,3,[('LR991680.1', 211043985, 211070650)],1,3.860831359345e-05,IGL
+mimic poison frog,Ranitomeya imitator,aRanImi1,aRanImi1.pri,0,12,[('CM064362.1', 6188490, 12098270)],1,0.0081420740154567,IGL
+Edward's Rocket Frog,Anomaloglossus baeobatrachus,aAnoBae1,aAnoBae1.hap1,0,7,[('CM109156.1', 252348173, 254293406)],1,0.0061975735929685,IGL
+two-lined caecilian,Rhinatrema bivittatum,aRhiBiv1,aRhiBiv1.2.pri,0,3,[('LR584390.1', 481959875, 483627446)],1,0.003425048762813,IGL
+painted frog,Discoglossus pictus,aDisPic1,aDisPic1.pri,0,1,[('CM050163.1', 419773149, 420492697)],1,0.001267802881386,IGL
+Southern corroboree frog,Pseudophryne corroboree,aPseCor3,aPseCor3.hap2,0,12,[('CM051803.1', 135267420, 146583553)],1,0.0139957549355733,IGL
+Fleay's barred frog,Mixophyes fleayi,aMixFle1,aMixFle1.hap1,3,0,[('NA', 'NA', 'NA')],1,NA,IGL
+plain spadefoot toad,Spea bombifrons,aSpeBom1,aSpeBom1.pri,3,0,[('NA', 'NA', 'NA')],1,NA,IGL
+Riggenbach's reed frog,Hyperolius riggenbachi,aHypRig1,aHypRig1.pri,0,9,[('JBFPJS010000033.1', 163300, 258622)],1,0.207958182345742,IGL
+coastal tailed frog,Ascaphus truei,aAscTru1,aAscTru1.hap1,0,4,[('JBDGIK010000423.1', 446, 19328)],1,0.0717038882327699,IGL
+Gaboon caecilian,Geotrypetes seraphini,aGeoSer1,aGeoSer1.pri,3,0,[('NA', 'NA', 'NA')],1,NA,IGL
+common spadefoot toad,Pelobates fuscus,aPelFus1,aPelFus1.pri,0,3,[('CM069893.1', 3042127, 3613677)],1,0.0050614366129104,IGL
+tiny cayenne caecilian,Microcaecilia unicolor,aMicUni1,aMicUni1.2.pri,0,2,[('LR594636.1', 255567833, 256633804)],1,0.0029266424418275,IGL
+Peter's clawed frog,Xenopus petersii,aXenPet1,aXenPet1.pat,0,6,[('CM076690.1', 68258999, 68529496)],1,0.0011417103910367,IGL
+hourglass treefrog,Dendropsophus ebraccatus,aDenEbr1,aDenEbr1.pat,0,3,[('CM051058.1', 23418006, 23472847)],1,0.0002714071277012,IGL
+Sardinian treefrog,Hyla sarda,aHylSar1,aHylSar1.hap1,0,3,[('CM056040.1', 304444482, 305612218)],1,0.0038188524875075,IGL

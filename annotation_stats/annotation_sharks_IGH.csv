@@ -1,14 +1,14 @@
-SpeciesID,Path,AnnotationLevel,NumGenes,ContigInfo,NumContigs,LocusFraction,Locus
-Great_white_shark,igdetective_cleaned_112925/Sharks/Mackerel_sharks_great_white/Great_white_shark/sCarCar2_alt,3,0,"[('NA', 'NA', 'NA')]",1,NA,IGH
-Basking_shark,igdetective_cleaned_112925/Sharks/Mackerel_sharks_great_white/Basking_shark/sCetMax3_pri,0,23,"[('OZ077469.1', 5964501, 18852137)]",1,0.1977721643898838,IGH
-Spotted_ratfish,igdetective_cleaned_112925/Sharks/Chimaeras_ratfish_sharks/Spotted_ratfish/sHydCol1_pri,0,6,"[('JAYJKX010000048.1', 11010, 162734)]",1,0.8648593187103835,IGH
-Sharpnose_sevengill_shark,igdetective_cleaned_112925/Sharks/Cow_sharks_seven_gill_sharks/Sharpnose_sevengill_shark/sHepPer1_alt,3,0,"[('NA', 'NA', 'NA')]",1,NA,IGH
-Epaulette_shark,igdetective_cleaned_112925/Sharks/Carpet_sharks/Epaulette_shark/sHemOce1_alt,0,5,"[('CM036671.1', 97899540, 98734885)]",1,0.0083790911921193,IGH
-Zebra_shark,igdetective_cleaned_112925/Sharks/Carpet_sharks/Zebra_shark/sSteTig4_pri,0,12,"[('CM060551.1', 3276704, 4659802)]",1,0.0842619668188554,IGH
-Blonde_ray,igdetective_cleaned_112925/Sharks/Skates/Blonde_ray/sRajBra1_alt,0,10,"[('CAUPSK010000227.1', 47428, 1235950)]",1,0.939113985862586,IGH
-Thorny_skate,igdetective_cleaned_112925/Sharks/Skates/Thorny_skate/sAmbRad1_pri,0,3,"[('CM021375.1', 4856950, 5542580)]",1,0.0097814725473855,IGH
-Lesser_electric_ray,igdetective_cleaned_112925/Sharks/Electric_rays/Lesser_electric_ray/sNarBan1_alt,0,4,"[('CM072960.1', 210870848, 211295375)]",1,0.001639781262534,IGH
-Smalltooth_sawfish,igdetective_cleaned_112925/Sharks/Sawfish/Smalltooth_sawfish/sPriPec2_pri,0,7,"[('CM019866.1', 56396720, 57127241)]",1,0.0126401357987392,IGH
-Atlantic_stingray,igdetective_cleaned_112925/Sharks/Rays/Atlantic_stingray/sHypSab1_alt,0,16,"[('CM058032.1', 25746304, 29267895)]",1,0.0724135827961865,IGH
-Atlantic_manta_ray,igdetective_cleaned_112925/Sharks/Rays/Atlantic_manta_ray/sMobBir1_pri,0,12,"[('CM057565.1', 18465122, 24286030)]",1,0.0391528557566143,IGH
-Small_spotted_catshark,igdetective_cleaned_112925/Sharks/Ground_sharks_hammerhead/Small_spotted_catshark/sScyCan1_alt,3,0,"[('NA', 'NA', 'NA')]",1,NA,IGH
+EnglishName,LatinName,AssemblyID,AssemblyID_main,AnnotationLevel,NumGenes,ContigInfo,NumContigs,LocusFraction,Locus
+great white shark,Carcharodon carcharias,sCarCar2,sCarCar2.pri,3,0,[('NA', 'NA', 'NA')],1,NA,IGH
+basking shark,Cetorhinus maximus,sCetMax3,sCetMax3.hap1,0,23,[('OZ077469.1', 5964501, 18852137)],1,0.197772164389884,IGH
+spotted ratfish,Hydrolagus colliei,sHydCol1,sHydCol1.hap2,0,6,[('JAYJKX010000048.1', 11010, 162734)],1,0.864859318710383,IGH
+sharpnose sevengill shark,Heptranchias perlo,sHepPer1,sHepPer1.hap1,3,0,[('NA', 'NA', 'NA')],1,NA,IGH
+epaulette shark,Hemiscyllium ocellatum,sHemOce1,sHemOce1.pat,0,5,[('CM036671.1', 97899540, 98734885)],1,0.0083790911921193,IGH
+zebra shark,Stegostoma tigrinum,sSteTig4,sSteTig4.hap1,0,12,[('CM060551.1', 3276704, 4659802)],1,0.0842619668188554,IGH
+blonde ray,Raja brachyura,sRajBra1,sRajBra1.pri,0,10,[('CAUPSK010000227.1', 47428, 1235950)],1,0.939113985862586,IGH
+thorny skate,Amblyraja radiata,sAmbRad1,sAmbRad1.pri,0,3,[('CM021375.1', 4856950, 5542580)],1,0.0097814725473855,IGH
+lesser electric ray,Narcine bancroftii,sNarBan1,sNarBan1.hap1,0,4,[('CM072960.1', 210870848, 211295375)],1,0.001639781262534,IGH
+smalltooth sawfish,Pristis pectinata,sPriPec2,sPriPec2.pri,0,7,[('CM019866.1', 56396720, 57127241)],1,0.0126401357987392,IGH
+Atlantic stingray,Hypanus sabinus,sHypSab1,sHypSab1.hap1,0,16,[('CM058032.1', 25746304, 29267895)],1,0.0724135827961865,IGH
+Atlantic manta ray,Mobula birostris,sMobBir1,sMobBir1.hap1,0,12,[('CM057565.1', 18465122, 24286030)],1,0.0391528557566143,IGH
+small-spotted catshark,Scyliorhinus canicula,sScyCan1,sScyCan1.pri,3,0,[('NA', 'NA', 'NA')],1,NA,IGH

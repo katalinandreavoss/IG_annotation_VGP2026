@@ -1,160 +1,160 @@
-SpeciesID,Path,AnnotationLevel,NumGenes,ContigInfo,NumContigs,LocusFraction,Locus
-Indian_glassy_fish,igdetective_cleaned_112925/Fish/various___polyphyletic/Indian_glassy_fish/fParRan2_alt,0,115.0,"[('CAABQF010000916.1', 9649, 320512)]",1,0.6099802208669854,IGH
-Japanese_puffer,igdetective_cleaned_112925/Fish/Plectognaths/Japanese_puffer/fTakRub1_pri,0,17.0,"[('LR584247.1', 5124077, 6244516)]",1,0.0768144344682696,IGH
-Long_spined_sea_scorpion,igdetective_cleaned_112925/Fish/Cottids/Long_spined_sea_scorpion/fTauBub2_alt,0,22.0,"[('CAJUUP010000138.1', 341400, 373609)]",1,0.0607219748357006,IGH
-Sharptooth_jobfish,igdetective_cleaned_112925/Fish/Snappers/Sharptooth_jobfish/fPriTyp1_pri,0,120.0,"[('CM098227.1', 10184364, 11203293)]",1,0.0221931384968158,IGH
-Yellow_and_blueback_fusilier,igdetective_cleaned_112925/Fish/Snappers/Yellow_and_blueback_fusilier/fCaeTer1_pri,0,124.0,"[('CM107452.1', 26932895, 27786938)]",1,0.0233075631253836,IGH
-Chinamanfish,igdetective_cleaned_112925/Fish/Snappers/Chinamanfish/fSymNem1_alt,0,62.0,"[('CM107400.1', 40204042, 41997537)]",1,0.0394454979035315,IGH
-Large_mouth_bass,igdetective_cleaned_112925/Fish/Late_perches/Large_mouth_bass/fMicSal1_pri,0,113.0,"[('CM033766.1', 23054764, 25283170)]",1,0.0562616278830502,IGH
-Old_wife,igdetective_cleaned_112925/Fish/Late_perches/Old_wife/fEnoArm2_alt,0,36.0,"[('CM092994.1', 8771557, 8845742)]",1,0.0033798342826498,IGH
-Crested_bigscale,igdetective_cleaned_112925/Fish/Beryciforms/Crested_bigscale/fPorCra3_pri,0,51.0,"[('OZ209224.1', 29566612, 30962973)]",1,0.0279066817984627,IGH
-Bight_redfish,igdetective_cleaned_112925/Fish/Beryciforms/Bight_redfish/fCenGer3_pri,0,180.0,"[('CM107511.1', 13730837, 14495961)]",1,0.0222358715753769,IGH
-Lesseer_sand_eel,igdetective_cleaned_112925/Fish/Stargazers/Lesseer_sand_eel/fAmmMar1_alt,0,56.0,"[('CATLKI010000214.1', 389174, 488149)]",1,0.1822435241174607,IGH
-Greater_sand_eel,igdetective_cleaned_112925/Fish/Stargazers/Greater_sand_eel/fHypImm3_alt,0,54.0,"[('CASHTE010000238.1', 61124, 214250)]",1,0.306153418599211,IGH
-Blue_salmon_catfish,igdetective_cleaned_112925/Fish/Catfish/Blue_salmon_catfish/fNeoGra1_alt,2,42.0,"[('JAQCNW010002023.1', 7085, 252310), ('JAQCNW010000274.1', 32395, 687277), ('JAQCNW010002044.1', 3812, 426514)]",3,NA,IGH
-North_african_catfish,igdetective_cleaned_112925/Fish/Catfish/North_african_catfish/fClaGar1_pri,0,142.0,"[('CM044219.1', 26317509, 28054374)]",1,0.0545723460900948,IGH
-Striped_catfish,igdetective_cleaned_112925/Fish/Catfish/Striped_catfish/fPanHyp1_pri,0,99.0,"[('CM050119.1', 21692048, 22194265)]",1,0.0192490886505128,IGH
-Aristotles_catfish,igdetective_cleaned_112925/Fish/Catfish/Aristotles_catfish/fSilAri1_pri,0,50.0,"[('OX327769.1', 20794784, 22797789)]",1,0.0795229192580368,IGH
-Rosablanca_cavefish,igdetective_cleaned_112925/Fish/Catfish/Rosablanca_cavefish/fTriRos1_alt,0,33.0,"[('JASDDW010000021.1', 21066982, 21182198)]",1,0.0052615348039868,IGH
-Antarctic_jonasfish,igdetective_cleaned_112925/Fish/Lizardfishes/Antarctic_jonasfish/fNotCoa1_alt,0,3.0,"[('CAXASL010004059.1', 117380.0, 119978.0)]",1,0.0146110195657186,IGH
-Copperband_butterflyfish,igdetective_cleaned_112925/Fish/Butterflyfishes/Copperband_butterflyfish/fCheRos1_alt,0,128.0,"[('JAGIYW010000310.1', 47120, 691047)]",1,0.8793693496845383,IGH
-Chevron_butterflyfish,igdetective_cleaned_112925/Fish/Butterflyfishes/Chevron_butterflyfish/fChaTrf1_alt,0,101.0,"[('CM078173.1', 12086363, 12776100)]",1,0.0261431618566068,IGH
-Banded_archerfish,igdetective_cleaned_112925/Fish/Barracudas/Banded_archerfish/fToxJac2_pri,0,70.0,"[('CM030697.1', 13147957, 13263958)]",1,0.0051875249507737,IGH
-Bowfin,igdetective_cleaned_112925/Fish/Bowfin/Bowfin/fAmiCal2_pri,0,55.0,"[('CM071100.1', 13306405, 14038220)]",1,0.0202141998335161,IGH
-Peladilla,igdetective_cleaned_112925/Fish/Galaxiids/Peladilla/fAplTae1_pri,0,7.0,"[('CM030178.1', 10296403, 13165741)]",1,0.1403133435718876,IGH
-Acadian_redfish,igdetective_cleaned_112925/Fish/Rockfishes/Acadian_redfish/fSebFas1_pri,0,154.0,"[('CM091693.1', 32656084, 34778217)]",1,0.0605495724831811,IGH
-Honeycomb_rockfish,igdetective_cleaned_112925/Fish/Rockfishes/Honeycomb_rockfish/fSebUmb1_alt,0,132.0,"[('JADCQR010001391.1', 134068, 417818)]",1,0.5972716001827072,IGH
-Darkedged_splitfin,igdetective_cleaned_112925/Fish/KillifishLive_bearers/Darkedged_splitfin/fGirMul_XY1_pri,2,58.0,"[('CM039440.1', 16230028, 20316671), ('CM039441.1', 16834876, 23416883)]",2,NA,IGH
-Banded_killifish,igdetective_cleaned_112925/Fish/KillifishLive_bearers/Banded_killifish/fFunDia1_alt,0,90.0,"[('CM073116.1', 18646738, 20787581)]",1,0.0464897229113543,IGH
-Largescale_four_eyes,igdetective_cleaned_112925/Fish/KillifishLive_bearers/Largescale_four_eyes/fAnaAna1_pri,0,116.0,"[('CM026083.1', 11652384, 13245951)]",1,0.0498137649948837,IGH
-Thickback_sole,igdetective_cleaned_112925/Fish/Flatfishes/Thickback_sole/fMicVar1_alt,0,36.0,"[('CAUOPY010000496.1', 662043, 742706)]",1,0.104331416479767,IGH
-Atlantic_halibut,igdetective_cleaned_112925/Fish/Flatfishes/Atlantic_halibut/fHipHip1_pri,0,43.0,"[('CM020197.1', 17121443, 17279377)]",1,0.0067135921824534,IGH
-European_plaice,igdetective_cleaned_112925/Fish/Flatfishes/European_plaice/fPlePla1_pri,0,58.0,"[('OX374663.1', 18265866, 19773016)]",1,0.0594993895109532,IGH
-Lemon_sole,igdetective_cleaned_112925/Fish/Flatfishes/Lemon_sole/fMicKit1_alt,0,89.0,"[('CAXWGU010000994.1', 309843, 527330)]",1,0.3559799198956385,IGH
-Turbot,igdetective_cleaned_112925/Fish/Flatfishes/Turbot/fScoMax1_pri,0,21.0,"[('OY978270.1', 9864458, 9904199)]",1,0.0018492480138882,IGH
-Common_dab,igdetective_cleaned_112925/Fish/Flatfishes/Common_dab/fLimLim1_pri,0,62.0,"[('OY755008.1', 15684349, 18244438)]",1,0.103118389047073,IGH
-European_flounder,igdetective_cleaned_112925/Fish/Flatfishes/European_flounder/fPlaFle2.1_alt,0,38.0,"[('CASGFX010000589.1', 1657, 103389)]",1,0.1653380400034454,IGH
-Common_sole,igdetective_cleaned_112925/Fish/Flatfishes/Common_sole/fSolSol10.1_alt,0,46.0,"[('CATQIK010000120.1', 2014166, 2190995)]",1,0.0723619139206318,IGH
-Golden_arowana,igdetective_cleaned_112925/Fish/Boney_tongue_fish/Golden_arowana/fSclFor1_pri,0,78.0,"[('LR584068.1', 32111389, 40776659)]",1,0.2121199117501042,IGH
-Shanny,igdetective_cleaned_112925/Fish/Blennies/Shanny/fLipPho2_pri,0,26.0,"[('OY726551.1', 8888751, 8950388)]",1,0.002322175048077,IGH
-Jewelled_blenny,igdetective_cleaned_112925/Fish/Blennies/Jewelled_blenny/fSalaFa1_pri,0,117.0,"[('LR597439.1', 14409019, 16875386)]",1,0.0907758717272354,IGH
-Crested_weedfish,igdetective_cleaned_112925/Fish/Blennies/Crested_weedfish/fCriAus1_alt,0,29.0,"[('CM110686.1', 6711122, 7693387)]",1,0.0464339858022192,IGH
-Butterfly_blenny,igdetective_cleaned_112925/Fish/Blennies/Butterfly_blenny/fBleOce1_alt,0,24.0,"[('CAUJSH010000647.1', 82612, 128884)]",1,0.1768584238226829,IGH
-Zig_zag_eel,igdetective_cleaned_112925/Fish/Swamp_eels/Zig_zag_eel/fMasArm1_pri,0,98.0,"[('LR535840.1', 18123384, 18690492)]",1,0.0244420694706135,IGH
-Northern_pike,igdetective_cleaned_112925/Fish/MudminnowsPikes/Northern_pike/fEsoLuc1_pri,0,92.0,"[('CM021603.1', 30387731, 38138857)]",1,0.1398916691903454,IGH
-Reedfish,igdetective_cleaned_112925/Fish/BichirsReedfish/Reedfish/fErpCal1.3_pri,0,27.0,"[('LR536433.2', 32036432, 34311382)]",1,0.0064948721058382,IGH
-Bermuda_beardfish,igdetective_cleaned_112925/Fish/Beardfishes/Bermuda_beardfish/fPolHol1_pri,0,81.0,"[('CM108331.1', 41551412, 42810880)]",1,0.0293017525545462,IGH
-Beardfish,igdetective_cleaned_112925/Fish/Beardfishes/Beardfish/fPolLow2_alt,0,85.0,"[('CM105256.1', 614406, 2098628)]",1,0.0383388137926767,IGH
-Sea_Lamprey,igdetective_cleaned_112925/Fish/Lampreys/Sea_Lamprey/kPetMar1_pri,0,11.0,"[('CM021511.1', 258491.0, 4128571.0)]",1,0.933390573673624,IGH
-European_river_lamprey,igdetective_cleaned_112925/Fish/Lampreys/European_river_lamprey/kcLamFluv1_pri,0,14.0,"[('OZ110976.1', 263199.0, 4707636.0)]",1,0.7152577281759938,IGH
-Blacktail_shiner,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/Blacktail_shiner/fCypVen1_pri,0,26.0,"[('CM075863.1', 32845243, 32892795)]",1,0.0008269165079519,IGH
-Common_dace,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/Common_dace/fLeuLeu2_pri,0,47.0,"[('OZ220319.1', 50076532, 50570043)]",1,0.005817950335687,IGH
-Rhinogobio_nasutus,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/Rhinogobio_nasutus/fRhiNas1_pri,0,27.0,"[('CM107715.1', 23591887, 23720023)]",1,0.0029950722814564,IGH
-Eurasian_minnow,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/Eurasian_minnow/fPhoPho1_pri,0,44.0,"[('OX424409.1', 28997684, 30037335)]",1,0.0186004685635379,IGH
-European_chub,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/European_chub/fSquCep2.1_alt,0,55.0,"[('CASGGY010000050.1', 47918, 457658)]",1,0.8412101403454022,IGH
-Common_carp,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/Common_carp/fCarcar2_pri,0,48.0,"[('OY720468.1', 34053683, 34459263)]",1,0.0075199588176661,IGH
-Common_bream,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/Common_bream/fAbrBra2.1_pri,0,65.0,"[('OZ023076.1', 30540270, 32286594)]",1,0.0218463003849362,IGH
-Stone_loach,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/Stone_loach/fBarBar1_pri,0,28.0,"[('OX344772.1', 10503560, 13662372)]",1,0.1195477503229734,IGH
-Common_rudd,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/Common_rudd/fScaEry2_pri,0,49.0,"[('OZ078834.1', 42637479, 42954232)]",1,0.0039509336482308,IGH
-Roach_minnow,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/Roach_minnow/fRutRut2_alt,0,70.0,"[('CATOQL010000636.1', 50530, 533730)]",1,0.67883283460474,IGH
-Barbel,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/Barbel/fBarBab1_alt,0,8.0,"[('CAKZFP010005570.1', 2369, 40276)]",1,0.9285014451574976,IGH
-Zebrafish,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/Zebrafish/fDanRer4_pri,0,24.0,"[('OX063292.1', 32387881, 33442908)]",1,0.0159775242119551,IGH
-Gudgeon,igdetective_cleaned_112925/Fish/CarpsMinnowsLoaches/Gudgeon/fGobGob1_pri,0,50.0,"[('OX442374.1', 54339726, 54878502)]",1,0.006169297672154,IGH
-Spangled_emperor,igdetective_cleaned_112925/Fish/Sea_breamsPorgies/Spangled_emperor/fLetNeb1_alt,0,187.0,"[('CM098200.1', 17037046, 18567180)]",1,0.0332135579328305,IGH
-Common_seabream,igdetective_cleaned_112925/Fish/Sea_breamsPorgies/Common_seabream/fPagPag1_pri,0,144.0,"[('OZ245647.1', 15159757, 15884611)]",1,0.0228172932754725,IGH
-Black_porgy,igdetective_cleaned_112925/Fish/Sea_breamsPorgies/Black_porgy/fAcaSch1_pri,0,148.0,"[('CM085494.1', 10808222, 11578767)]",1,0.0286792543561341,IGH
-Gilthead_seabream,igdetective_cleaned_112925/Fish/Sea_breamsPorgies/Gilthead_seabream/fSpaAur1_pri,0,163.0,"[('LR537143.1', 12304846, 13523086)]",1,0.0399069689097182,IGH
-Smalleye_pacific_opah,igdetective_cleaned_112925/Fish/Lamprids/Smalleye_pacific_opah/fLamInc1_alt,0,31.0,"[('CM056228.1', 60131163, 64522597)]",1,0.0621925069641696,IGH
-Black_goby,igdetective_cleaned_112925/Fish/Gobies/Black_goby/fGobNig1_pri,0,54.0,"[('OX637604.1', 30185479, 31089004)]",1,0.0246133931346356,IGH
-Korean_giant_fin_mudskipper,igdetective_cleaned_112925/Fish/Gobies/Korean_giant_fin_mudskipper/fPerMag1_pri,0,20.0,"[('CM020598.1', 11213144, 11363240)]",1,0.0050559246995443,IGH
-Atlantic_horse_mackerel,igdetective_cleaned_112925/Fish/Jacks/Atlantic_horse_mackerel/fTraTra1_alt,0,145.0,"[('CAJIMG020000438.1', 2542581, 3082544)]",1,0.1748965448439557,IGH
-Live_sharksucker,igdetective_cleaned_112925/Fish/Jacks/Live_sharksucker/fEcheNa1_alt,0,38.0,"[('CAAHFP010000091.1', 15383, 150856)]",1,0.6606956487812492,IGH
-Electric_eel,igdetective_cleaned_112925/Fish/South_American_Knifefish/Electric_eel/fEleEle2_pri,0,50.0,"[('CM085980.1', 29120181, 29504374)]",1,0.0091604897207871,IGH
-Trahira,igdetective_cleaned_112925/Fish/PiranhasTetrasCavefish/Trahira/fHopMal1_pri,0,158.0,"[('CM080117.1', 7044116, 8938496)]",1,0.0455869867800191,IGH
-Red_bellied_piranha,igdetective_cleaned_112925/Fish/PiranhasTetrasCavefish/Red_bellied_piranha/fPygNat1_pri,0,124.0,"[('CM026734.1', 36472069, 36986954)]",1,0.0122166414105338,IGH
-Mexican_tetra,igdetective_cleaned_112925/Fish/PiranhasTetrasCavefish/Mexican_tetra/fAstMex1_pri,0,223.0,"[('CM041927.1', 8587456, 11305876)]",1,0.0610280698095446,IGH
-Golden_dorado,igdetective_cleaned_112925/Fish/PiranhasTetrasCavefish/Golden_dorado/fSalBra1_pri,0,144.0,"[('JASKUO010000012.1', 28480424, 30904903)]",1,0.0631471614564618,IGH
-African_coelacanth,igdetective_cleaned_112925/Fish/Coelacanth_Latimeria_chalumae/African_coelacanth/fLatCha2_pri,0,80.0,"[('CM074251.1', 86568147, 88733471)]",1,0.0125739014840367,IGH
-Corkwing_wrasse,igdetective_cleaned_112925/Fish/Wrasses/Corkwing_wrasse/fSymMel2_alt,0,129.0,"[('CANSXH010001324.1', 43262, 296455)]",1,0.850340044667596,IGH
-New_zealand_spotty_wrasse,igdetective_cleaned_112925/Fish/Wrasses/New_zealand_spotty_wrasse/fNotCel1_pri,0,76.0,"[('WOTL01000031.1', 865, 112231)]",1,0.5641812821058391,IGH
-Ballan_wrasse,igdetective_cleaned_112925/Fish/Wrasses/Ballan_wrasse/fLabBer1_pri,0,160.0,"[('OZ005724.1', 14881820, 17385383)]",1,0.0900760786406507,IGH
-Blackspot_tuskfish,igdetective_cleaned_112925/Fish/Wrasses/Blackspot_tuskfish/fChoSch1_pri,0,65.0,"[('CM104196.1', 1336330, 2831343)]",1,0.0463753511351302,IGH
-Cuckoo_wrasse,igdetective_cleaned_112925/Fish/Wrasses/Cuckoo_wrasse/fLabMix1_pri,0,86.0,"[('OY757303.1', 8453952, 8809234)]",1,0.0142400300510718,IGH
-Cunner,igdetective_cleaned_112925/Fish/Wrasses/Cunner/fTauAds1_alt,0,38.0,"[('JAJGRG010000475.1', 158306, 537070)]",1,0.4249081783527525,IGH
-Rough_bullseye,igdetective_cleaned_112925/Fish/Sweepers/Rough_bullseye/fPemKlu1_alt,0,123.0,"[('CM090231.1', 9561299, 11060661)]",1,0.0617136343995586,IGH
-Needlefish,igdetective_cleaned_112925/Fish/Needlefish/Needlefish/fXenCan1_pri,0,112.0,"[('CM026214.1', 16461404, 17891502)]",1,0.0512830498399791,IGH
-Denticle_herring,igdetective_cleaned_112925/Fish/HerringsAnchovies/Denticle_herring/fDenClu1_pri,0,20.0,"[('LR535819.1', 2546741, 4007324)]",1,0.0576398901411796,IGH
-European_sprat,igdetective_cleaned_112925/Fish/HerringsAnchovies/European_sprat/fSprSpr1_pri,0,23.0,"[('OY735300.1', 2049815, 3440803)]",1,0.0436349363700697,IGH
-Sardine,igdetective_cleaned_112925/Fish/HerringsAnchovies/Sardine/fSarPil1_alt,0,54.0,"[('CAWKYO010000004.1', 8710289, 9059634)]",1,0.0088494743537118,IGH
-American_shad,igdetective_cleaned_112925/Fish/HerringsAnchovies/American_shad/fAloSap1_alt,0,47.0,"[('JAHDTO010000554.1', 167341, 617884)]",1,0.5989765856408238,IGH
-Osbecks_grenadier_anchovy,igdetective_cleaned_112925/Fish/HerringsAnchovies/Osbecks_grenadier_anchovy/fColCha1_alt,0,82.0,"[('CM108836.1', 13412489, 13795037)]",1,0.0097802303887146,IGH
-Warty_frogfish,igdetective_cleaned_112925/Fish/MonkfishesAnglerfishes/Warty_frogfish/fAntMac1_pri,0,20.0,"[('CM023612.1', 7603985, 18073568)]",1,0.407239133108553,IGH
-Spotted_scat,igdetective_cleaned_112925/Fish/Scats/Spotted_scat/fScaArg1_pri,0,66.0,"[('CM035582.1', 9981403, 10287793)]",1,0.0133388762875057,IGH
-Greater_argentine,igdetective_cleaned_112925/Fish/SmeltsSlickheads/Greater_argentine/fArgSil1_alt,0,18.0,"[('CATOGY010001072.1', 92401, 120914)]",1,0.2081316836380889,IGH
-Pencil_smelt,igdetective_cleaned_112925/Fish/SmeltsSlickheads/Pencil_smelt/fNanAnt1_pri,0,33.0,"[('OZ022343.1', 13650515, 15643518)]",1,0.0259269909781816,IGH
-John_dory,igdetective_cleaned_112925/Fish/DoriesZeus_fishes/John_dory/fZeuFab8_pri,0,35.0,"[('OY482855.1', 19653817, 20837971)]",1,0.0348701881643948,IGH
-Orbiculate_cardinalfish,igdetective_cleaned_112925/Fish/KurterCardinal_perches/Orbiculate_cardinalfish/fSphaOr1_pri,0,124.0,"[('LR597465.1', 34222827, 34807953)]",1,0.0104778978735972,IGH
-Thicklip_grey_mullet,igdetective_cleaned_112925/Fish/Mullets/Thicklip_grey_mullet/fCheLab1_pri,0,106.0,"[('OY741309.1', 21322331, 22476889)]",1,0.0469987101547691,IGH
-Prehistoric_monster_fish,igdetective_cleaned_112925/Fish/Toadfish/Prehistoric_monster_fish/fThaAma1_pri,0,15.0,"[('LR722981.1', 25505486, 25865265)]",1,0.0039054216234482,IGH
-Spotted_gar,igdetective_cleaned_112925/Fish/Gars/Spotted_gar/fLepOcu1_pri,0,101.0,"[('CM082524.1', 5220552, 6613852)]",1,0.0211853785703078,IGH
-Pinecone_soldierfish,igdetective_cleaned_112925/Fish/SquirrelfishSoldierfish/Pinecone_soldierfish/fMyrMur1_pri,0,120.0,"[('LR597557.1', 32776535, 33537133)]",1,0.020867797572942,IGH
-Blunt_snouted_clingfish,igdetective_cleaned_112925/Fish/Clingfishes/Blunt_snouted_clingfish/fGouWil1_pri,0,18.0,"[('LR131982.1', 17055630, 28286875)]",1,0.3943785549829833,IGH
-Northern_cavefish,igdetective_cleaned_112925/Fish/CavefishesTrout_perches/Northern_cavefish/fAmbSpe1_alt,0,59.0,"[('CM101362.1', 20816635, 21252863)]",1,0.0118099980458712,IGH
-Large_eye_snaggletooth,igdetective_cleaned_112925/Fish/Dragonfishes/Large_eye_snaggletooth/fBorAnt1_alt,0,32.0,"[('CATLJU010000776.1', 42381, 1807189)]",1,0.9248296346604116,IGH
-Rainbow_smelt,igdetective_cleaned_112925/Fish/Freshwater_smeltsNoodlefish/Rainbow_smelt/fOsmMor3_alt,0,14.0,"[('JBBWVH010001531.1', 1339, 32795)]",1,0.8295577415016219,IGH
-European_smelt,igdetective_cleaned_112925/Fish/Freshwater_smeltsNoodlefish/European_smelt/fOsmEpe2_alt,0,11.0,"[('CAVNYD010000619.1', 10343, 39998)]",1,0.5697187427956659,IGH
-Siamese_fighting_fish,igdetective_cleaned_112925/Fish/Labyrinth_fishes/Siamese_fighting_fish/fBetSpl5_alt,0,118.0,"[('CAABQE020003740.1', 15889, 327306)]",1,0.8689454078714232,IGH
-Climbing_perch,igdetective_cleaned_112925/Fish/Labyrinth_fishes/Climbing_perch/fAnaTes1_pri,0,164.0,"[('LR132046.1', 16122618, 16517963)]",1,0.0181080517702154,IGH
-European_conger,igdetective_cleaned_112925/Fish/Eels/European_conger/fConCon1_pri,0,146.0,"[('OY741315.1', 82223768, 85666382)]",1,0.0383140403904743,IGH
-European_eel,igdetective_cleaned_112925/Fish/Eels/European_eel/fAngAng1_pri,0,137.0,"[('CM023566.1', 63226558, 63831173)]",1,0.0078885717693289,IGH
-Silver_spinyfin,igdetective_cleaned_112925/Fish/Roughies/Silver_spinyfin/fDirArg1_alt,0,71.0,"[('JBMBTB010000015.1', 11841495, 12812051)]",1,0.0388654023612451,IGH
-Yellowfin_tuna,igdetective_cleaned_112925/Fish/Mackerels/Yellowfin_tuna/fThuAlb1_pri,0,143.0,"[('OU607608.1', 11043420, 12364666)]",1,0.0432733704255617,IGH
-Atlantic_mackerel,igdetective_cleaned_112925/Fish/Mackerels/Atlantic_mackerel/fScoSco1_pri,0,101.0,"[('OY829935.1', 17247654, 17559222)]",1,0.0108269418799308,IGH
-Northern_bluefin_tuna,igdetective_cleaned_112925/Fish/Mackerels/Northern_bluefin_tuna/fThuThy2_alt,0,165.0,"[('CAWUQQ010000176.1', 711376, 1364034)]",1,0.4259299503430435,IGH
-Southern_bluefin_tuna,igdetective_cleaned_112925/Fish/Mackerels/Southern_bluefin_tuna/fThuMac1_alt,0,151.0,"[('CAJVDD010000106.1', 1909814, 2399285)]",1,0.1597311918839346,IGH
-Australian_herring,igdetective_cleaned_112925/Fish/Mackerels/Australian_herring/fArrGeo1_pri,0,85.0,"[('CM090255.1', 14948102, 15851678)]",1,0.0348155830921236,IGH
-Pacific_chub_mackerel,igdetective_cleaned_112925/Fish/Mackerels/Pacific_chub_mackerel/fScoJap1_alt,0,82.0,"[('JAPYKB010000226.1', 126421, 351205)]",1,0.0856574525001715,IGH
-Salamanderfish,igdetective_cleaned_112925/Fish/Salamanderfish/Salamanderfish/fLepSal2_alt,0,16.0,"[('CM110845.1', 14087824, 14370975)]",1,0.0126966374409624,IGH
-Rankin_cod,igdetective_cleaned_112925/Fish/Perch_fishes/Rankin_cod/fEpiMut1_alt,0,148.0,"[('CM107543.1', 28665690, 29800371)]",1,0.027770003254042,IGH
-Yellowfin_sea_bream,igdetective_cleaned_112925/Fish/Perch_fishes/Yellowfin_sea_bream/fAcaLat1_pri,0,89.0,"[('LR884482.1', 10045764, 10317768)]",1,0.0107290604952332,IGH
-Limp_eelpout,igdetective_cleaned_112925/Fish/Perch_fishes/Limp_eelpout/fMelGel1.1_alt,0,20.0,"[('CATIYH010000808.1', 73752, 101276)]",1,0.1155247385121635,IGH
-Giant_grouper,igdetective_cleaned_112925/Fish/Perch_fishes/Giant_grouper/fEpiLan1_pri,0,313.0,"[('CM086036.1', 29476456, 30883806)]",1,0.0321686801378085,IGH
-Rock_gunnel,igdetective_cleaned_112925/Fish/Perch_fishes/Rock_gunnel/fPhoGun1_alt,0,31.0,"[('CAJUYF020000436.1', 265665, 318103)]",1,0.1214179864777253,IGH
-Grey_gurnard,igdetective_cleaned_112925/Fish/Perch_fishes/Grey_gurnard/fEutGur1_pri,0,136.0,"[('OY741283.1', 5835559, 9409987)]",1,0.1542431574445789,IGH
-Marbled_rockcod,igdetective_cleaned_112925/Fish/Perch_fishes/Marbled_rockcod/fNotRos5.1_pri,0,253.0,"[('OX449118.1', 10825702, 13825644)]",1,0.0358774355270016,IGH
-Blackbelly_eelpout,igdetective_cleaned_112925/Fish/Perch_fishes/Blackbelly_eelpout/fLycPai1_alt,0,60.0,"[('CM051702.1', 5771010, 8728673)]",1,0.1159230720841093,IGH
-Channel_bull_blenny,igdetective_cleaned_112925/Fish/Perch_fishes/Channel_bull_blenny/fCotGob3_pri,0,34.0,"[('LR131938.1', 12912893, 13052197)]",1,0.0059448964465478,IGH
-Sea_stickleback,igdetective_cleaned_112925/Fish/Sticklebacks/Sea_stickleback/fSpiSpi1_alt,0,6.0,"[('CM106675.1', 479212, 5197834)]",1,0.2318300040454251,IGH
-Three_spined_stickleback,igdetective_cleaned_112925/Fish/Sticklebacks/Three_spined_stickleback/fgasAcu3_pri,2,31.0,"[('OZ193844.1', 1850892, 21513397), ('OZ193850.1', 13928332, 14090653)]",2,NA,IGH
-Ninespine_stickleback,igdetective_cleaned_112925/Fish/Sticklebacks/Ninespine_stickleback/fPunPun2.1_pri,0,46.0,"[('OX438552.1', 1586001, 7110233)]",1,0.2731603173075712,IGH
-Lantern_fish,igdetective_cleaned_112925/Fish/LanternfishesBlackchins/Lantern_fish/fNanAch1_pri,0,39.0,"[('OY997641.1', 25839269, 27124953)]",1,0.0167649672943448,IGH
-Minispotted_lanternfish,igdetective_cleaned_112925/Fish/LanternfishesBlackchins/Minispotted_lanternfish/fGymMic1_alt,0,43.0,"[('CAUOFV010000327.1', 379904, 1181788)]",1,0.6455057206359069,IGH
-Bolins_lanternfish,igdetective_cleaned_112925/Fish/LanternfishesBlackchins/Bolins_lanternfish/fProBol1_pri,0,9.0,"[('OZ001276.1', 13882527, 15083254)]",1,0.0260929935813814,IGH
-Parallel_lanternfish,igdetective_cleaned_112925/Fish/LanternfishesBlackchins/Parallel_lanternfish/fProPar1_pri,0,5.0,"[('OZ077155.1', 35492843, 35499707)]",1,0.000130757312675,IGH
-Antarctic_lanternfish,igdetective_cleaned_112925/Fish/LanternfishesBlackchins/Antarctic_lanternfish/fEleAnt2_pri,0,20.0,"[('OX578259.1', 16063657, 16117254)]",1,0.0010577700072063,IGH
-Brauers_lanternfish,igdetective_cleaned_112925/Fish/LanternfishesBlackchins/Brauers_lanternfish/fGymBra2_pri,0,46.0,"[('OY725520.1', 34201385, 34908956)]",1,0.0130068026380568,IGH
-Milkfish,igdetective_cleaned_112925/Fish/Milkfish/Milkfish/fChaCha1_pri,0,91.0,"[('LR697113.1', 19408059, 21338677)]",1,0.0399352965694564,IGH
-Blue_whiting,igdetective_cleaned_112925/Fish/Cods/Blue_whiting/fMicPou1_pri,0,23.0,"[('OZ034936.1', 700112, 1759242)]",1,0.0348042038843556,IGH
-Atlantic_cod,igdetective_cleaned_112925/Fish/Cods/Atlantic_cod/fGadMor3_pri,0,35.0,"[('LR633944.1', 11597191, 12303811)]",1,0.0245928212642185,IGH
-European_pollock,igdetective_cleaned_112925/Fish/Cods/European_pollock/fPolPol2.1_pri,0,36.0,"[('OX465134.1', 12668351, 13067165)]",1,0.0162664179313573,IGH
-Indo_pacific_tarpon,igdetective_cleaned_112925/Fish/TarponsTenpoundersLadyfish/Indo_pacific_tarpon/fMegCyp1_pri,2,118.0,"[('CM023707.1', 11527398, 12245605), ('CM023725.1', 5381585, 5458461)]",2,NA,IGH
-Ocellated_dragonet,igdetective_cleaned_112925/Fish/Dragonets/Ocellated_dragonet/fSynOce1_pri,0,11.0,"[('CM094612.1', 79986, 7823911)]",1,0.2471197142905921,IGH
-Picturesque_dragonet,igdetective_cleaned_112925/Fish/Dragonets/Picturesque_dragonet/fSynPic1_pri,0,12.0,"[('CM094669.1', 12343669, 12509385)]",1,0.0107193856864931,IGH
-Lesser_weever,igdetective_cleaned_112925/Fish/Weeverfish/Lesser_weever/fEchVip8_alt,0,29.0,"[('CAVNVG010000593.1', 422709, 469874)]",1,0.0851089553423846,IGH
-Pejerrey,igdetective_cleaned_112925/Fish/Silversides/Pejerrey/fOdoBon6_alt,0,101.0,"[('JAQIHM010000019.1', 15082991, 18626256)]",1,0.1362998785433105,IGH
-Boesemans_rainbowfish,igdetective_cleaned_112925/Fish/Silversides/Boesemans_rainbowfish/fMelBoe1_pri,0,90.0,"[('CM030226.1', 20745289, 21465800)]",1,0.0172750885541563,IGH
-Telmatherina_bonti,igdetective_cleaned_112925/Fish/Silversides/Telmatherina_bonti/fTelBon1_alt,0,76.0,"[('CAKOGH010000206.1', 445468, 744223)]",1,0.2963683457119814,IGH
-Atlantic_silverside,igdetective_cleaned_112925/Fish/Silversides/Atlantic_silverside/fMenAtl1_pri,0,46.0,"[('CM109617.1', 12775610, 12873988)]",1,0.0047501726789022,IGH
-Flavescent_peacock_cichlid,igdetective_cleaned_112925/Fish/Cichlids/Flavescent_peacock_cichlid/fAulStu2_alt,0,144.0,"[('CBDDFC010000053.1', 258952, 1040400)]",1,0.5935208877810108,IGH
-Flier_cichlid,igdetective_cleaned_112925/Fish/Cichlids/Flier_cichlid/fArcCen1_pri,2,24.0,"[('STFW01009025.1', 675789, 782348), ('STFW01006998.1', 2210, 84436)]",2,NA,IGH
-Chilingali_cichlid,igdetective_cleaned_112925/Fish/Cichlids/Chilingali_cichlid/fRhaChi2_alt,2,93.0,"[('CAXAJX010000058.1', 4296, 599830), ('CAXAJX010000279.1', 1373, 264749)]",2,NA,IGH
-Eastern_happy,igdetective_cleaned_112925/Fish/Cichlids/Eastern_happy/fAstCal1_pri,0,140.0,"[('OZ206495.1', 18292470, 20251443)]",1,0.0527920223282893,IGH
-Chinese_sea_bass,igdetective_cleaned_112925/Fish/Asian_sea_basses/Chinese_sea_bass/fLatMac1_pri,0,92.0,"[('CM062216.1', 17300498, 19574983)]",1,0.0915986766692777,IGH
-Lumpfish,igdetective_cleaned_112925/Fish/Male_cheeked_fishes/Lumpfish/fCycLum1_pri,0,12.0,"[('CM020121.1', 7176942, 14134668)]",1,0.3165413758572792,IGH
-Sterlet,igdetective_cleaned_112925/Fish/SturgeonsPaddlefishes/Sterlet/fAciRut3_pri,0,40.0,"[('OV754662.1', 6019777, 7705765)]",1,0.200348199568666,IGH
-Common_whitefish,igdetective_cleaned_112925/Fish/SalmonTroutCharsWhitefishGraylings/Common_whitefish/fCorLav1_pri,2,49.0,"[('OZ182191.1', 26745920, 27582381), ('OZ182165.1', 53163916, 53470625)]",2,NA,IGH
-Artic_char,igdetective_cleaned_112925/Fish/SalmonTroutCharsWhitefishGraylings/Artic_char/fSalAlp2_alt,0,22.0,"[('JAWDGR010000024.1', 17894, 1452010)]",1,0.7005279912543664,IGH
-Brown_trout,igdetective_cleaned_112925/Fish/SalmonTroutCharsWhitefishGraylings/Brown_trout/fSalTru1_pri,2,39.0,"[('LR584408.1', 26867038, 28840222), ('LR584410.1', 62335862, 62734823)]",2,NA,IGH
-Broad_nosed_pipefish,igdetective_cleaned_112925/Fish/PipefishesSeahorses/Broad_nosed_pipefish/fSynTyp1_alt,2,19.0,"[('CM107646.1', 677682, 6137966), ('CM107649.1', 495091, 4717718), ('CM107643.1', 672654, 10585654)]",3,NA,IGH
-Greater_pipefish,igdetective_cleaned_112925/Fish/PipefishesSeahorses/Greater_pipefish/fSynAcu1_pri,0,25.0,"[('LR594595.1', 19647305, 28381883)]",1,0.3070787047522187,IGH
-West atlantic_trumpetfish,igdetective_cleaned_112925/Fish/PipefishesSeahorses/West atlantic_trumpetfish/fAulMac1_pri,0,25.0,"[('CM107632.1', 11873157, 12023657)]",1,0.0057929892051398,IGH
+EnglishName,LatinName,AssemblyID,AssemblyID_main,AnnotationLevel,NumGenes,ContigInfo,NumContigs,LocusFraction,Locus
+Indian glassy fish,Parambassis ranga,fParRan2,fParRan2.2.pri,0,115,[('CAABQF010000916.1', 9649, 320512)],1,0.609980220866985,IGH
+japanese_puffer,japanese_puffer,japanese_puffer,japanese_puffer,0,17,[('LR584247.1', 5124077, 6244516)],1,0.0768144344682696,IGH
+long-spined sea scorpion,Taurulus bubalis,fTauBub2,fTauBub2.pri,0,22,[('CAJUUP010000138.1', 341400, 373609)],1,0.0607219748357006,IGH
+sharptooth jobfish,Pristipomoides typus,fPriTyp1,fPriTyp1.hap1,0,120,[('CM098227.1', 10184364, 11203293)],1,0.0221931384968158,IGH
+yellow and blueback fusilier,Caesio teres,fCaeTer1,fCaeTer1.hap1,0,124,[('CM107452.1', 26932895, 27786938)],1,0.0233075631253836,IGH
+chinamanfish,Symphorus nematophorus,fSymNem1,fSymNem1.hap1,0,62,[('CM107400.1', 40204042, 41997537)],1,0.0394454979035315,IGH
+large-mouth bass,Micropterus salmoides,fMicSal1,fMicSal1.pri,0,113,[('CM033766.1', 23054764, 25283170)],1,0.0562616278830502,IGH
+old wife,Enoplosus armatus,fEnoArm2,fEnoArm2.hap1,0,36,[('CM092994.1', 8771557, 8845742)],1,0.0033798342826498,IGH
+crested bigscale,Poromitra crassiceps,fPorCra3,fPorCra3.hap1,0,51,[('OZ209224.1', 29566612, 30962973)],1,0.0279066817984627,IGH
+bight redfish,Centroberyx gerrardi,fCenGer3,fCenGer3.hap1,0,180,[('CM107511.1', 13730837, 14495961)],1,0.0222358715753769,IGH
+lesseer sand eel,Ammodytes marinus,fAmmMar1,fAmmMar1.pri,0,56,[('CATLKI010000214.1', 389174, 488149)],1,0.182243524117461,IGH
+greater sand eel,Hyperoplus immaculatus,fHypImm3,fHypImm3.1.pri,0,54,[('CASHTE010000238.1', 61124, 214250)],1,0.306153418599211,IGH
+blue salmon catfish,Neoarius graeffei,fNeoGra1,fNeoGra1.pri,2,42,[('JAQCNW010002023.1', 7085, 252310), ('JAQCNW010000274.1', 32395, 687277), ('JAQCNW010002044.1', 3812, 426514)],3,NA,IGH
+North African catfish,Clarias gariepinus,fClaGar1,fClaGar1.hap1,0,142,[('CM044219.1', 26317509, 28054374)],1,0.0545723460900948,IGH
+striped catfish,Pangasianodon hypophthalmus,fPanHyp1,fPanHyp1.pri,0,99,[('CM050119.1', 21692048, 22194265)],1,0.0192490886505128,IGH
+Aristotle's catfish,Silurus aristotelis,fSilAri1,fSilAri1.pri,0,50,[('OX327769.1', 20794784, 22797789)],1,0.0795229192580368,IGH
+Rosablanca cavefish,Trichomycterus rosablanca,fTriRos1,fTriRos1.hap1,0,33,[('JASDDW010000021.1', 21066982, 21182198)],1,0.0052615348039868,IGH
+Antarctic jonasfish,Notolepis coatsi,fNotCoa1,fNotCoa1.pri,0,3,[('CAXASL010004059.1', 117380.0, 119978.0)],1,0.0146110195657186,IGH
+copperband butterflyfish,Chelmon rostratus,fCheRos1,fCheRos1.pri,0,128,[('JAGIYW010000310.1', 47120, 691047)],1,0.879369349684538,IGH
+chevron butterflyfish,Chaetodon trifascialis,fChaTrf1,fChaTrf1.hap1,0,101,[('CM078173.1', 12086363, 12776100)],1,0.0261431618566068,IGH
+banded archerfish,Toxotes jaculatrix,fToxJac2,fToxJac2.pri,0,70,[('CM030697.1', 13147957, 13263958)],1,0.0051875249507737,IGH
+bowfin,Amia calva,fAmiCal2,fAmiCal2.hap1,0,55,[('CM071100.1', 13306405, 14038220)],1,0.0202141998335161,IGH
+peladilla,Aplochiton taeniatus,fAplTae1,fAplTae1.pri,0,7,[('CM030178.1', 10296403, 13165741)],1,0.140313343571888,IGH
+Acadian redfish,Sebastes fasciatus,fSebFas1,fSebFas1.pri,0,154,[('CM091693.1', 32656084, 34778217)],1,0.0605495724831811,IGH
+honeycomb rockfish,Sebastes umbrosus,fSebUmb1,fSebUmb1.pri,0,132,[('JADCQR010001391.1', 134068, 417818)],1,0.597271600182707,IGH
+darkedged splitfin,Girardinichthys multiradiatus,DD_fGirMul_XY1,fGirMul1.pri,2,58,[('CM039440.1', 16230028, 20316671), ('CM039441.1', 16834876, 23416883)],2,NA,IGH
+banded killifish,Fundulus diaphanus,fFunDia1,fFunDia1.hap1,0,90,[('CM073116.1', 18646738, 20787581)],1,0.0464897229113543,IGH
+largescale four-eyes,Anableps anableps,fAnaAna1,fAnaAna1.pri,0,116,[('CM026083.1', 11652384, 13245951)],1,0.0498137649948837,IGH
+thickback sole,Microchirus variegatus,fMicVar1,fMicVar1.pri,0,36,[('CAUOPY010000496.1', 662043, 742706)],1,0.104331416479767,IGH
+Atlantic halibut,Hippoglossus hippoglossus,fHipHip1,fHipHip1.pri,0,43,[('CM020197.1', 17121443, 17279377)],1,0.0067135921824534,IGH
+European plaice,Pleuronectes platessa,fPlePla1,fPlePla1.pri,0,58,[('OX374663.1', 18265866, 19773016)],1,0.0594993895109532,IGH
+lemon sole,Microstomus kitt,fMicKit1,fMicKit.pri,0,89,[('CAXWGU010000994.1', 309843, 527330)],1,0.355979919895638,IGH
+turbot,Scophthalmus maximus,fScoMax1,fScoMax1.pri,0,21,[('OY978270.1', 9864458, 9904199)],1,0.0018492480138882,IGH
+common dab,Limanda limanda,fLimLim1,fLimLim1.pri,0,62,[('OY755008.1', 15684349, 18244438)],1,0.103118389047073,IGH
+European flounder,Platichthys flesus,fPlaFle2.1,fPlaFle2.1.pri,0,38,[('CASGFX010000589.1', 1657, 103389)],1,0.165338040003445,IGH
+common sole,Solea solea,fSolSol10.1,fSolSol10.pri,0,46,[('CATQIK010000120.1', 2014166, 2190995)],1,0.0723619139206318,IGH
+golden arowana,Scleropages formosus,fSclFor1,fSclFor1.pri,0,78,[('LR584068.1', 32111389, 40776659)],1,0.212119911750104,IGH
+shanny,Lipophrys pholis,fLipPho2,fLipPho2.pri,0,26,[('OY726551.1', 8888751, 8950388)],1,0.002322175048077,IGH
+jewelled blenny,Salarias fasciatus,fSalaFa1,fSalaFa1.pri,0,117,[('LR597439.1', 14409019, 16875386)],1,0.0907758717272354,IGH
+crested weedfish,Cristiceps australis,fCriAus1,fCriAus1.hap1,0,29,[('CM110686.1', 6711122, 7693387)],1,0.0464339858022192,IGH
+butterfly blenny,Blennius ocellaris,fBleOce1,fBleOce1.pri,0,24,[('CAUJSH010000647.1', 82612, 128884)],1,0.176858423822683,IGH
+zig-zag eel,Mastacembelus armatus,fMasArm1,fMasArm1.3.pri,0,98,[('LR535840.1', 18123384, 18690492)],1,0.0244420694706135,IGH
+Northern pike,Esox lucius,fEsoLuc1,fEsoLuc1.pri,0,92,[('CM021603.1', 30387731, 38138857)],1,0.139891669190345,IGH
+reedfish,Erpetoichthys calabaricus,fErpCal1.3,fErpCal1.3.pri,0,27,[('LR536433.2', 32036432, 34311382)],1,0.0064948721058382,IGH
+Bermuda beardfish,Polymixia cf. hollisterae,fPolHol1,fPolHol1.hap1,0,81,[('CM108331.1', 41551412, 42810880)],1,0.0293017525545462,IGH
+beardfish,Polymixia lowei,fPolLow2,fPolLow2.hap1,0,85,[('CM105256.1', 614406, 2098628)],1,0.0383388137926767,IGH
+sea lamprey,Petromyzon marinus,kPetMar1,kPetMar1.pri,0,11,[('CM021511.1', 258491.0, 4128571.0)],1,0.933390573673624,IGH
+European river lamprey,Lampetra fluviatilis,kcLamFluv1,kcLamFluv1.pri,0,14,[('OZ110976.1', 263199.0, 4707636.0)],1,0.715257728175994,IGH
+blacktail shiner,Cyprinella venusta,fCypVen1,fCypVen1.hap1,0,26,[('CM075863.1', 32845243, 32892795)],1,0.0008269165079519,IGH
+common dace,Leuciscus leuciscus,fLeuLeu2,fLeuLeu2.hap1,0,47,[('OZ220319.1', 50076532, 50570043)],1,0.005817950335687,IGH
+Rhinogobio nasutus,Rhinogobio nasutus,fRhiNas1,fRhiNas1.pri,0,27,[('CM107715.1', 23591887, 23720023)],1,0.0029950722814564,IGH
+Eurasian minnow,Phoxinus phoxinus,fPhoPho1,fPhoPho.pri,0,44,[('OX424409.1', 28997684, 30037335)],1,0.0186004685635379,IGH
+European chub,Squalius cephalus,fSquCep2.1,fSquCep2.pri,0,55,[('CASGGY010000050.1', 47918, 457658)],1,0.841210140345402,IGH
+common carp,Carassius carassius,fCarcar2,fCarCar2.pri,0,48,[('OY720468.1', 34053683, 34459263)],1,0.0075199588176661,IGH
+common bream,Abramis brama,fAbrBra2.1,fAbrBra2.1.pri,0,65,[('OZ023076.1', 30540270, 32286594)],1,0.0218463003849362,IGH
+stone loach,Barbatula barbatula,fBarBar1,fBarBar1.pri,0,28,[('OX344772.1', 10503560, 13662372)],1,0.119547750322973,IGH
+common rudd,Scardinius erythrophthalmus,fScaEry2,fScaEry2.hap1,0,49,[('OZ078834.1', 42637479, 42954232)],1,0.0039509336482308,IGH
+roach minnow,Rutilus rutilus,fRutRut2,fRutRut2.pri,0,70,[('CATOQL010000636.1', 50530, 533730)],1,0.67883283460474,IGH
+barbel,Barbus barbus,fBarBab1,fBarBab1.pri,0,8,[('CAKZFP010005570.1', 2369, 40276)],1,0.928501445157498,IGH
+zebrafish,Danio rerio,fDanRer4,fDanRer4.pri,0,24,[('OX063292.1', 32387881, 33442908)],1,0.0159775242119551,IGH
+gudgeon,Gobio gobio,fGobGob1,fGobGob1.pri,0,50,[('OX442374.1', 54339726, 54878502)],1,0.006169297672154,IGH
+spangled emperor,Lethrinus nebulosus,fLetNeb1,fLetNeb1.hap1,0,187,[('CM098200.1', 17037046, 18567180)],1,0.0332135579328305,IGH
+common seabream,Pagrus pagrus,fPagPag1,fPagPag1.hap1,0,144,[('OZ245647.1', 15159757, 15884611)],1,0.0228172932754725,IGH
+black porgy,Acanthopagrus schlegelii,fAcaSch1,fAcaSch1.pri,0,148,[('CM085494.1', 10808222, 11578767)],1,0.0286792543561341,IGH
+gilthead seabream,Sparus aurata,fSpaAur1,fSpaAur11.2.pri,0,163,[('LR537143.1', 12304846, 13523086)],1,0.0399069689097182,IGH
+smalleye Pacific opah,Lampris incognitus,fLamInc1,fLamInc1.hap2,0,31,[('CM056228.1', 60131163, 64522597)],1,0.0621925069641696,IGH
+black goby,Gobius niger,fGobNig1,fGobNig1.pri,0,54,[('OX637604.1', 30185479, 31089004)],1,0.0246133931346356,IGH
+Korean giant-fin mudskipper,Periophthalmus magnuspinnatus,fPerMag1,fPerMag1.2.pri,0,20,[('CM020598.1', 11213144, 11363240)],1,0.0050559246995443,IGH
+Atlantic horse mackerel,Trachurus trachurus,fTraTra1,fTraTra1.2.pri,0,145,[('CAJIMG020000438.1', 2542581, 3082544)],1,0.174896544843956,IGH
+live sharksucker,Echeneis naucrates,fEcheNa1,fEcheNa1.pri,0,38,[('CAAHFP010000091.1', 15383, 150856)],1,0.660695648781249,IGH
+electric eel,Electrophorus electricus,fEleEle2,fEleEle2.pri,0,50,[('CM085980.1', 29120181, 29504374)],1,0.0091604897207871,IGH
+trahira,Hoplias malabaricus,fHopMal1,fHopMal1.hap1,0,158,[('CM080117.1', 7044116, 8938496)],1,0.0455869867800191,IGH
+red-bellied piranha,Pygocentrus nattereri,fPygNat1,fPygNat1.pri,0,124,[('CM026734.1', 36472069, 36986954)],1,0.0122166414105338,IGH
+Mexican tetra,Astyanax mexicanus,fAstMex1,fAstMex1.pri,0,223,[('CM041927.1', 8587456, 11305876)],1,0.0610280698095446,IGH
+golden dorado,Salminus brasiliensis,fSalBra1,fSalBra1.hap2,0,144,[('JASKUO010000012.1', 28480424, 30904903)],1,0.0631471614564618,IGH
+African coelacanth,Latimeria chalumnae,fLatCha2,fLatCha2.pri,0,80,[('CM074251.1', 86568147, 88733471)],1,0.0125739014840367,IGH
+corkwing wrasse,Symphodus melops,fSymMel2,fSymMel2.pri,0,129,[('CANSXH010001324.1', 43262, 296455)],1,0.850340044667596,IGH
+New Zealand spotty wrasse,Notolabrus celidotus,fNotCel1,fNotCel1.pri,0,76,[('WOTL01000031.1', 865, 112231)],1,0.564181282105839,IGH
+ballan wrasse,Labrus bergylta,fLabBer1,fLabBer1.pri,0,160,[('OZ005724.1', 14881820, 17385383)],1,0.0900760786406507,IGH
+blackspot tuskfish,Choerodon schoenleinii,fChoSch1,fChoSch1.pri,0,65,[('CM104196.1', 1336330, 2831343)],1,0.0463753511351302,IGH
+cuckoo wrasse,Labrus mixtus,fLabMix1,fLabMix.pri,0,86,[('OY757303.1', 8453952, 8809234)],1,0.0142400300510718,IGH
+cunner,Tautogolabrus adspersus,fTauAds1,fTauAds1.pri,0,38,[('JAJGRG010000475.1', 158306, 537070)],1,0.424908178352753,IGH
+rough bullseye,Pempheris klunzingeri,fPemKlu1,fPemKlu1.hap1,0,123,[('CM090231.1', 9561299, 11060661)],1,0.0617136343995586,IGH
+needlefish,Xenentodon cancila,fXenCan1,fXenCan1.pri,0,112,[('CM026214.1', 16461404, 17891502)],1,0.0512830498399791,IGH
+denticle herring,Denticeps clupeoides,fDenClu1,fDenClu1.pri,0,20,[('LR535819.1', 2546741, 4007324)],1,0.0576398901411796,IGH
+European sprat,Sprattus sprattus,fSprSpr1,fSprSpr1.pri,0,23,[('OY735300.1', 2049815, 3440803)],1,0.0436349363700697,IGH
+sardine,Sardina pilchardus,fSarPil1,fSarPil1.pri,0,54,[('CAWKYO010000004.1', 8710289, 9059634)],1,0.0088494743537118,IGH
+American shad,Alosa sapidissima,fAloSap1,fAloSap1.pri,0,47,[('JAHDTO010000554.1', 167341, 617884)],1,0.598976585640824,IGH
+Osbeck's grenadier anchovy,Coilia mystus,fColCha1,fColCha1.hap2,0,82,[('CM108836.1', 13412489, 13795037)],1,0.0097802303887146,IGH
+warty frogfish,Antennarius maculatus,fAntMac1,fAntMac1.pri,0,20,[('CM023612.1', 7603985, 18073568)],1,0.407239133108553,IGH
+spotted scat,Scatophagus argus,fScaArg1,fScaArg1.pri,0,66,[('CM035582.1', 9981403, 10287793)],1,0.0133388762875057,IGH
+greater argentine,Argentina silus,fArgSil1,fArgSil1.pri,0,18,[('CATOGY010001072.1', 92401, 120914)],1,0.208131683638089,IGH
+pencil smelt,Nansenia antarctica,fNanAnt1,fNanAnt1.pri,0,33,[('OZ022343.1', 13650515, 15643518)],1,0.0259269909781816,IGH
+John dory,Zeus faber,fZeuFab8,fZeuFab8.pri,0,35,[('OY482855.1', 19653817, 20837971)],1,0.0348701881643948,IGH
+orbiculate cardinalfish,Sphaeramia orbicularis,fSphaOr1,fSphaOr1.pri,0,124,[('LR597465.1', 34222827, 34807953)],1,0.0104778978735972,IGH
+thicklip grey mullet,Chelon labrosus,fCheLab1,fCheLab1.pri,0,106,[('OY741309.1', 21322331, 22476889)],1,0.0469987101547691,IGH
+prehistoric monster fish,Thalassophryne amazonica,fThaAma1,fThaAma1.pri,0,15,[('LR722981.1', 25505486, 25865265)],1,0.0039054216234482,IGH
+spotted gar,Lepisosteus oculatus,fLepOcu1,fLepOcu1.hap2,0,101,[('CM082524.1', 5220552, 6613852)],1,0.0211853785703078,IGH
+pinecone soldierfish,Myripristis murdjan,fMyrMur1,fMyrMur1.pri,0,120,[('LR597557.1', 32776535, 33537133)],1,0.020867797572942,IGH
+blunt-snouted clingfish,Gouania willdenowi,fGouWil1,fGouWil2.2.pri,0,18,[('LR131982.1', 17055630, 28286875)],1,0.394378554982983,IGH
+Northern cavefish,Amblyopsis spelaea,fAmbSpe1,fAmpSpe.hap1,0,59,[('CM101362.1', 20816635, 21252863)],1,0.0118099980458712,IGH
+large-eye snaggletooth,Borostomias antarcticus,fBorAnt1,fBorAnt1.pri,0,32,[('CATLJU010000776.1', 42381, 1807189)],1,0.924829634660412,IGH
+rainbow smelt,Osmerus mordax,fOsmMor3,fOsmMor3.pri,0,14,[('JBBWVH010001531.1', 1339, 32795)],1,0.829557741501622,IGH
+European smelt,Osmerus eperlanus,fOsmEpe2,fOsmEpe2.pri,0,11,[('CAVNYD010000619.1', 10343, 39998)],1,0.569718742795666,IGH
+Siamese fighting fish,Betta splendens,fBetSpl5,fBetSpl5.4.pri,0,118,[('CAABQE020003740.1', 15889, 327306)],1,0.868945407871423,IGH
+climbing perch,Anabas testudineus,fAnaTes1,fAnaTes1.pri,0,164,[('LR132046.1', 16122618, 16517963)],1,0.0181080517702154,IGH
+European conger,Conger conger,fConCon1,fConCon1.pri,0,146,[('OY741315.1', 82223768, 85666382)],1,0.0383140403904743,IGH
+European eel,Anguilla anguilla,fAngAng1,fAngAng1.pri,0,137,[('CM023566.1', 63226558, 63831173)],1,0.0078885717693289,IGH
+silver spinyfin,Diretmus argenteus,fDirArg1,fDirArg1.hap1,0,71,[('JBMBTB010000015.1', 11841495, 12812051)],1,0.0388654023612451,IGH
+yellowfin tuna,Thunnus albacares,fThuAlb1,fThuAlb1.pri,0,143,[('OU607608.1', 11043420, 12364666)],1,0.0432733704255617,IGH
+Atlantic mackerel,Scomber scombrus,fScoSco1,fScoSco1.pri,0,101,[('OY829935.1', 17247654, 17559222)],1,0.0108269418799308,IGH
+northern bluefin tuna,Thunnus thynnus,fThuThy2,fThuThy2.pri,0,165,[('CAWUQQ010000176.1', 711376, 1364034)],1,0.425929950343043,IGH
+southern bluefin tuna,Thunnus maccoyii,fThuMac1,fThuMac1.pri,0,151,[('CAJVDD010000106.1', 1909814, 2399285)],1,0.159731191883935,IGH
+Australian herring,Arripis georgiana,fArrGeo1,fArrGeo1.hap2,0,85,[('CM090255.1', 14948102, 15851678)],1,0.0348155830921236,IGH
+Pacific chub mackerel,Scomber japonicus,fScoJap1,fScoJap1.pri,0,82,[('JAPYKB010000226.1', 126421, 351205)],1,0.0856574525001715,IGH
+salamanderfish,Lepidogalaxias salamandroides,fLepSal2,fLepSal2.hap1,0,16,[('CM110845.1', 14087824, 14370975)],1,0.0126966374409624,IGH
+rankin cod,Epinephelus rankini,fEpiMut1,fEpiMut1.hap1,0,148,[('CM107543.1', 28665690, 29800371)],1,0.027770003254042,IGH
+yellowfin sea bream,Acanthopagrus latus,fAcaLat1,fAcaLat1.pri,0,89,[('LR884482.1', 10045764, 10317768)],1,0.0107290604952332,IGH
+limp eelpout,Melanostigma gelatinosum,fMelGel1.1,fMelGel1.pri,0,20,[('CATIYH010000808.1', 73752, 101276)],1,0.115524738512163,IGH
+giant grouper,Epinephelus lanceolatus,fEpiLan1,fEpiLan1.pri,0,313,[('CM086036.1', 29476456, 30883806)],1,0.0321686801378085,IGH
+rock gunnel,Pholis gunnellus,fPhoGun1,fPhoGun1.pri,0,31,[('CAJUYF020000436.1', 265665, 318103)],1,0.121417986477725,IGH
+grey gurnard,Eutrigla gurnardus,fEutGur1,fEutGur1.pri,0,136,[('OY741283.1', 5835559, 9409987)],1,0.154243157444579,IGH
+marbled rockcod,Notothenia rossii,fNotRos5.1,fNotRos5.pri,0,253,[('OX449118.1', 10825702, 13825644)],1,0.0358774355270016,IGH
+blackbelly eelpout,Lycodopsis pacificus,fLycPai1,fLycPai1.hap2,0,60,[('CM051702.1', 5771010, 8728673)],1,0.115923072084109,IGH
+channel bull blenny,Cottoperca gobio,fCotGob3,fCotGob3.pri,0,34,[('LR131938.1', 12912893, 13052197)],1,0.0059448964465478,IGH
+sea stickleback,Spinachia spinachia,fSpiSpi1,fSpiSpi1.hap1,0,6,[('CM106675.1', 479212, 5197834)],1,0.231830004045425,IGH
+three-spined stickleback,Gasterosteus aculeatus,fgasAcu3,fgasAcu3.hap1,2,31,[('OZ193844.1', 1850892, 21513397), ('OZ193850.1', 13928332, 14090653)],2,NA,IGH
+ninespine stickleback,Pungitius pungitius,fPunPun2.1,fPunPun2.pri,0,46,[('OX438552.1', 1586001, 7110233)],1,0.273160317307571,IGH
+Lantern fish,Nannobrachium achirus,fNanAch1,fNanAch1.pri,0,39,[('OY997641.1', 25839269, 27124953)],1,0.0167649672943448,IGH
+minispotted lanternfish,Gymnoscopelus microlampas,fGymMic1,fGymMic1.pri,0,43,[('CAUOFV010000327.1', 379904, 1181788)],1,0.645505720635907,IGH
+bolins_lanternfish,bolins_lanternfish,bolins_lanternfish,bolins_lanternfish,0,9,[('OZ001276.1', 13882527, 15083254)],1,0.0260929935813814,IGH
+parallel lanternfish,Protomyctophum parallelum,fProPar1,fProPar1.hap1,0,5,[('OZ077155.1', 35492843, 35499707)],1,0.000130757312675,IGH
+Antarctic lanternfish,Electrona antarctica,fEleAnt2,fEleAnt2.pri,0,20,[('OX578259.1', 16063657, 16117254)],1,0.0010577700072063,IGH
+Brauer's lanternfish,Gymnoscopelus braueri,fGymBra2,fGymBra2.pri,0,46,[('OY725520.1', 34201385, 34908956)],1,0.0130068026380568,IGH
+milkfish,Chanos chanos,fChaCha1,fChaCha1.pri,0,91,[('LR697113.1', 19408059, 21338677)],1,0.0399352965694564,IGH
+blue whiting,Micromesistius poutassou,fMicPou1,fMicPou1.pri,0,23,[('OZ034936.1', 700112, 1759242)],1,0.0348042038843556,IGH
+Atlantic cod,Gadus morhua,fGadMor3,fGadMor3.pri,0,35,[('LR633944.1', 11597191, 12303811)],1,0.0245928212642185,IGH
+European pollock,Pollachius pollachius,fPolPol2.1,fPolPol2.pri,0,36,[('OX465134.1', 12668351, 13067165)],1,0.0162664179313573,IGH
+Indo-pacific tarpon,Megalops cyprinoides,fMegCyp1,fMegCyp1.pri,2,118,[('CM023707.1', 11527398, 12245605), ('CM023725.1', 5381585, 5458461)],2,NA,IGH
+ocellated dragonet,Neosynchiropus ocellatus,fSynOce1,fSynOce1.hap1,0,11,[('CM094612.1', 79986, 7823911)],1,0.247119714290592,IGH
+picturesque dragonet,Synchiropus picturatus,fSynPic1,fSynPic1.hap2,0,12,[('CM094669.1', 12343669, 12509385)],1,0.0107193856864931,IGH
+lesser weever,Echiichthys vipera,fEchVip8,fEchVip8.pri,0,29,[('CAVNVG010000593.1', 422709, 469874)],1,0.0851089553423846,IGH
+pejerrey,Odontesthes bonariensis,fOdoBon6,fOdoBon6,0,101,[('JAQIHM010000019.1', 15082991, 18626256)],1,0.13629987854331,IGH
+boesemans_rainbowfish,boesemans_rainbowfish,boesemans_rainbowfish,boesemans_rainbowfish,0,90,[('CM030226.1', 20745289, 21465800)],1,0.0172750885541563,IGH
+telmatherina bonti,Telmatherina bonti,fTelBon1,fTelBon1.pri,0,76,[('CAKOGH010000206.1', 445468, 744223)],1,0.296368345711981,IGH
+Atlantic silverside,Menidia menidia,fMenAtl1,fMenAtl1.hap1,0,46,[('CM109617.1', 12775610, 12873988)],1,0.0047501726789022,IGH
+flavescent peacock cichlid,Aulonocara stuartgranti,fAulStu2,fAulStu2.pri,0,144,[('CBDDFC010000053.1', 258952, 1040400)],1,0.593520887781011,IGH
+flier cichlid,Archocentrus centrarchus,fArcCen1,fArcCen1.pri,2,24,[('STFW01009025.1', 675789, 782348), ('STFW01006998.1', 2210, 84436)],2,NA,IGH
+Chilingali cichlid,Rhamphochromis chilingali,fRhaChi2,fRhaChi2.pri,2,93,[('CAXAJX010000058.1', 4296, 599830), ('CAXAJX010000279.1', 1373, 264749)],2,NA,IGH
+Eastern happy,Astatotilapia calliptera,fAstCal1,fAstCal68.1,0,140,[('OZ206495.1', 18292470, 20251443)],1,0.0527920223282893,IGH
+Chinese sea bass,Lateolabrax maculatus,fLatMac1,fLatMac1.pri,0,92,[('CM062216.1', 17300498, 19574983)],1,0.0915986766692777,IGH
+lumpfish,Cyclopterus lumpus,fCycLum1,fCycLum1.pri,0,12,[('CM020121.1', 7176942, 14134668)],1,0.316541375857279,IGH
+sterlet,Acipenser ruthenus,fAciRut3,fAciRut3.mat,0,40,[('OV754662.1', 6019777, 7705765)],1,0.200348199568666,IGH
+common whitefish,Coregonus lavaretus,fCorLav1,fCorLav1.hap1,2,49,[('OZ182191.1', 26745920, 27582381), ('OZ182165.1', 53163916, 53470625)],2,NA,IGH
+Artic char,Salvelinus alpinus,fSalAlp2,fSalAlp2.pri,0,22,[('JAWDGR010000024.1', 17894, 1452010)],1,0.700527991254366,IGH
+brown trout,Salmo trutta,fSalTru1,fSalTru1.2.pri,2,39,[('LR584408.1', 26867038, 28840222), ('LR584410.1', 62335862, 62734823)],2,NA,IGH
+broad-nosed pipefish,Syngnathus typhle,fSynTyp1,fSynTyp1.hap1,2,19,[('CM107646.1', 677682, 6137966), ('CM107649.1', 495091, 4717718), ('CM107643.1', 672654, 10585654)],3,NA,IGH
+greater pipefish,Syngnathus acus,fSynAcu1,fSynAcu1.2.pri,0,25,[('LR594595.1', 19647305, 28381883)],1,0.307078704752219,IGH
+West Atlantic trumpetfish,Aulostomus maculatus,fAulMac1,fAulMac1.hap1,0,25,[('CM107632.1', 11873157, 12023657)],1,0.0057929892051398,IGH
